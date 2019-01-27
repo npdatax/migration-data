@@ -1,7 +1,7 @@
 ### Data Sample
 
 ```
-[{'ID': '87X74184VP',
+{'ID': '87X74184VP',
   'age': 42,
   'gender': 'male',
   'home_address': {'province': 'PN7',
