@@ -12,12 +12,14 @@ class Person(object):
         
         self.ID = str()
         self.age = int()
+        self.gender = str()
         self.foreign_address = dict()
         self.home_address = dict()
         self.profession = dict()
         self.date_out = ""
         self.date_return = ""
         self.fund2invest = int()
+        self.personal_view = str()
        
         
     '''
@@ -25,6 +27,12 @@ class Person(object):
     '''   
     def set_ID(self):
         self.ID = random_ID(10)
+        
+    '''
+    This function generates a random gender.
+    '''    
+    def set_gender(self):
+        self.gender = random.choice(["male","female"])
         
     '''
     This function generates a random home address
@@ -72,7 +80,12 @@ class Person(object):
     ''' 
     def set_date_return(self):
         self.date_return = random_date(2019,2025) 
-    
+        
+    '''
+    This function generates a random in date uniformly distributed
+    ''' 
+    def set_personal_view(self,data):
+        self.personal_view = random_view(data)
     
     
 #====================================================================
@@ -127,8 +140,19 @@ def random_home_address(data):
  This function generates a random foreign address 
 '''    
 def random_foreign_address(data):
-    selected_country = random.choice(data)['name']
-    return selected_country
+    rdata = random.choice(data)
+    country = rdata['name']
+    lat = rdata['lat']
+    lon = rdata['lon']
+    ID = rdata['ID']
+    city = random.choice(rdata['cities'])
+    foreign_add = {"country":country,\
+                   "ID":ID,\
+                   "lat":lat,\
+                   "lon":lon,\
+                   "city":city}
+                   
+    return foreign_add
 
 
 
@@ -154,6 +178,10 @@ def random_date(y1,y2):
     date = str(year) + "." + str(month) + "." + str(day)
     return date
 
+def random_view(data):
+    view = random.choice(data)
+    return view
+    
 
 
 
