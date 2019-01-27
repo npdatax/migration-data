@@ -18,7 +18,17 @@
   'date_out': '2019.8.28',
   'date_return': '2025.7.17',
   'fund2invest': 6105,
-  'personal_view': ['Kathmandu Metropolitan City’s undying infatuation for the preface ‘smart’ has manifested in several glossy (and costly) infrastructural undertakings—from zebra crossings to dustbins and even toilets. But contrary to what ‘smart’ suggests, many of these initiatives seem devoid of any intelligent or sustainable solutions to the challenges they claim to address.Take, for example, the ‘smart dustbins’. From November last year, Kathmandu Metropolitan City, in conjunction with its private partner Krishna Suppliers, began scattering over 70 ‘smart dustbins’ throughout the city. According to city officials, each dustbin, which is fitted with advertising technology, costs around Rs 600,000. The city plans to install as many as 200 of them—which means the investment will amount to Rs 120,000,000. As of yet, the ‘smart dustbins’ seem to have made little difference—and in painful visual irony, some of them are even decorated with litter.']},
+  'personal_view': ['Kathmandu Metropolitan City’s undying infatuation for the preface ‘smart’ 
+  has manifested in several glossy (and costly) infrastructural undertakings—from zebra crossings
+  to dustbins and even toilets. But contrary to what ‘smart’ suggests, many of these initiatives 
+  seem devoid of any intelligent or sustainable solutions to the challenges they claim to address.
+  Take, for example, the ‘smart dustbins’. From November last year, Kathmandu Metropolitan City,
+  in conjunction with its private partner Krishna Suppliers, began scattering over 70 ‘smart dustbins’
+  throughout the city. According to city officials, each dustbin, which is fitted with 
+  advertising technology, costs around Rs 600,000. The city plans to install as many as 200 of
+  them—which means the investment will amount to Rs 120,000,000. As of yet, the ‘smart dustbins’
+  seem to have made little difference—and in painful visual irony, some of them are even 
+  decorated with litter.']},
  ```
 
 
