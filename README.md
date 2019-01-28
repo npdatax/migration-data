@@ -40,18 +40,15 @@
    {'date': '2018.8.11', 'place': {'country': 'Belarus', 'city': 'Mozir'}}],
   'social_work': [{'date': '2011.10.3', 'work': 'pollution control'},
    {'date': '2010.12.7', 'work': 'medical camp'}],
-  'personal_view': ['Yet, having said that, the companies cannot operate without taking responsibility for their actions.
-  The terms and services page of both Tootle and Pathao mention that they are only ‘a technology company that does not 
-  provide or engage in transportation services’. It further mentions that ‘the company is not a transportation provider’.
-  These statements make it easier for them to shirk responsibility. Also, it does not make them liable for the insurance
-  of the rider or the passenger in case of an accident. As a service provider, ensuring the safety of customers should 
+  'personal_view': ['Yet, having said that, the companies cannot operate without taking 
+  responsibility for their actions.The terms and services page of both Tootle and Pathao
+  mention that they are only ‘a technology company that does not provide or engage in 
+  transportation services’. It further mentions that ‘the company is not a transportation
+  provider’.These statements make it easier for them to shirk responsibility. Also, 
+  it does not make them liable for the insurance of the rider or the passenger in case
+  of an accident. As a service provider, ensuring the safety of customers should 
   be any company’s top priority—especially in the business of transportation.']},
  ```
-
-
-
-
-
 
 
 ### Data generator 
