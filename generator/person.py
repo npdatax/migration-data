@@ -16,8 +16,12 @@ class Person(object):
         self.foreign_address = dict()
         self.home_address = dict()
         self.profession = dict()
-        self.date_out = ""
-        self.date_return = ""
+        self.date_out = str()
+        self.date_return = str()
+        self.interest = str()
+        self.social_work = str()
+        self.remittance = str()
+        self.travell = str()
         self.fund2invest = int()
         self.personal_view = str()
        
@@ -64,8 +68,8 @@ class Person(object):
     '''
     This function generates a random fund available to invest
     ''' 
-    def set_fund2invest(self):
-        self.fund2invest = random.randint(500,10000)
+    def set_fund2invest(self,data):
+        self.fund2invest = random_fund2invest(data)
         
         
     '''
@@ -86,6 +90,34 @@ class Person(object):
     ''' 
     def set_personal_view(self,data):
         self.personal_view = random_view(data)
+    
+    
+    '''
+    This function generates a random in date uniformly distributed
+    ''' 
+    def set_interest(self,data):
+        self.interest = random_interest(data)
+        
+    '''
+    This function generates a random in date uniformly distributed
+    ''' 
+    def set_social_work(self,data):
+        self.social_work = random_social_work(data)
+    
+    
+    '''
+    This function generates a random in date uniformly distributed
+    ''' 
+    def set_remittance(self):
+        self.remittance = random_remittance() 
+        
+    '''
+    This function generates a random in date uniformly distributed
+    ''' 
+    def set_travell(self,data):
+        self.travell = random_travell(data)
+    
+        
     
     
 #====================================================================
@@ -178,10 +210,73 @@ def random_date(y1,y2):
     date = str(year) + "." + str(month) + "." + str(day)
     return date
 
+
+'''
+ This function generates a random view
+'''    
 def random_view(data):
     view = random.choice(data)
     return view
-    
+
+
+'''
+ This function generates a random investment
+'''    
+def random_fund2invest(data):
+    InvInt = {}
+    for key,value in data.items():
+        sector = str(key)
+        InvInt.update({sector:str(random.randint(1,10))+str("%")})
+    InvInt.update({"total_fund":random.randint(500,10000)})
+    return InvInt
+        
+
+'''
+ This function generates a random interest
+'''    
+def random_interest(data):
+    pint = random.choice(data)
+    return pint
+                          
+                          
+'''
+ This function generates a random social work
+'''                              
+def random_social_work(data):
+    SW = []
+    for item in range(random.randint(2,5)):
+        date = random_date(2001,2018)
+        sw = random.choice(data)
+        SW.append({"date":date,"work":sw})
+    return SW
+                       
+'''
+ This function generates a random remittance 
+'''                           
+def random_remittance(): 
+    R = []
+    for i in range(random.randint(3,6)):                  
+        month = random.randint(1,12)
+        amount = random.randint(100,1000)
+        R.append({"month":month,"amount":amount})
+    return R
+
+'''
+ This function generates a random travell pattern
+'''                           
+def random_travell(data): 
+    T = []
+    for i in range(random.randint(2,5)):
+        date = random_date(2010,2019)
+        place = random.choice(data)
+        country = place['name']
+        city = random.choice(place['cities'])
+        T.append({"date":date,"place" : {"country":country,"city":city}})
+    return T
+           
+ 
+                       
+                       
 
 
 
