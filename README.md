@@ -1,53 +1,107 @@
 ### Data Sample
 
 ```
-{'ID': '8FRPYY572O',
-  'age': 41,
-  'gender': 'female',
-  'profession': {'major': 'Food Preparation and Serving Related Occupations',
-   'branch': 'Cooks, Fast Food'},
-  'interest': 'literature',
-  'home_address': {'province': 'PN3',
-   'district': 'Ramechaap',
-   'MCP': 'Umakunda RM',
-   'ward': 'Ward 3'},
-  'foreign_address': {'country': 'American-Samoa',
-   'ID': 'AS',
-   'lat': '-19.015438',
-   'lon': '29.154857',
-   'city': 'Rawson-Trelew-Playa Unión'},
-  'date_out': '2018.1.6',
-  'date_return': '2019.10.10',
-  'fund2invest': {'invetsment sector': '9%',
-   'tourism and hospitality': '7%',
-   'animal husbandary': '5%',
-   'infrastructure': '2%',
-   'cottage industries': '8%',
-   'personal service business': '2%',
-   'retail business': '7%',
-   'consultancy service': '3%',
-   'alternative energy': '3%',
-   'agriculture': '8%',
-   'total_fund': 2590},
-  'remittance': [{'month': 10, 'amount': 721},
-   {'month': 5, 'amount': 524},
-   {'month': 6, 'amount': 492},
-   {'month': 7, 'amount': 319},
-   {'month': 12, 'amount': 573},
-   {'month': 10, 'amount': 770}],
-  'travell': [{'date': '2017.2.18',
-    'place': {'country': 'Cook-Islands', 'city': 'Zürich'}},
-   {'date': '2018.8.11', 'place': {'country': 'Belarus', 'city': 'Mozir'}}],
-  'social_work': [{'date': '2011.10.3', 'work': 'pollution control'},
-   {'date': '2010.12.7', 'work': 'medical camp'}],
-  'personal_view': ['Yet, having said that, the companies cannot operate without taking 
-  responsibility for their actions.The terms and services page of both Tootle and Pathao
-  mention that they are only ‘a technology company that does not provide or engage in 
-  transportation services’. It further mentions that ‘the company is not a transportation
-  provider’.These statements make it easier for them to shirk responsibility. Also, 
-  it does not make them liable for the insurance of the rider or the passenger in case
-  of an accident. As a service provider, ensuring the safety of customers should 
-  be any company’s top priority—especially in the business of transportation.']},
+{  
+      "ID":"8FRPYY572O",
+      "age":41,
+      "gender":"female",
+      "profession":{  
+         "major":"Food Preparation and Serving Related Occupations",
+         "branch":"Cooks, Fast Food"
+      },
+      "interest":"literature",
+      "home_address":{  
+         "province":"PN3",
+         "district":"Ramechaap",
+         "MCP":"Umakunda RM",
+         "ward":"Ward 3"
+      },
+      "foreign_address":{  
+         "country":"American-Samoa",
+         "ID":"AS",
+         "lat":"-19.015438",
+         "lon":"29.154857",
+         "city":"Rawson-Trelew-Playa Uni\u00f3n"
+      },
+      "date_out":"2018.1.6",
+      "date_return":"2019.10.10",
+      "fund2invest":{  
+         "invetsment sector":"9%",
+         "tourism and hospitality":"7%",
+         "animal husbandary":"5%",
+         "infrastructure":"2%",
+         "cottage industries":"8%",
+         "personal service business":"2%",
+         "retail business":"7%",
+         "consultancy service":"3%",
+         "alternative energy":"3%",
+         "agriculture":"8%",
+         "total_fund":2590
+      },
+      "remittance":[  
+         {  
+            "month":10,
+            "amount":721
+         },
+         {  
+            "month":5,
+            "amount":524
+         },
+         {  
+            "month":6,
+            "amount":492
+         },
+         {  
+            "month":7,
+            "amount":319
+         },
+         {  
+            "month":12,
+            "amount":573
+         },
+         {  
+            "month":10,
+            "amount":770
+         }
+      ],
+      "travell":[  
+         {  
+            "date":"2017.2.18",
+            "place":{  
+               "country":"Cook-Islands",
+               "city":"Z\u00fcrich"
+            }
+         },
+         {  
+            "date":"2018.8.11",
+            "place":{  
+               "country":"Belarus",
+               "city":"Mozir"
+            }
+         }
+      ],
+      "social_work":[  
+         {  
+            "date":"2011.10.3",
+            "work":"pollution control"
+         },
+         {  
+            "date":"2010.12.7",
+            "work":"medical camp"
+         }
+      ],
+      "personal_view":[  
+         "Yet, having said that, the companies cannot operate without taking responsibility
+         for their actions. The terms and services page of both Tootle and Pathao mention
+         that they are only \u2018a technology company that does not provide or engage
+         in transportation services\u2019. It further mentions that \u2018the company
+         is not a transportation provider\u2019. These statements make it easier for 
+         them to shirk responsibility. Also, it does not make them liable for the 
+         insurance of the rider or the passenger in case of an accident. As a service 
+         provider, ensuring the safety of customers should be any company\u2019s top 
+         priority\u2014especially in the business of transportation."
+      ]
+   },
  ```
 
 
