@@ -1,0 +1,923 @@
+id,value
+profession,1
+profession.Management Occupations,1.1
+profession.Management Occupations.Chief Executives,1.1.1
+profession.Management Occupations.General and Operations Managers,1.1.2
+profession.Management Occupations.Legislators,1.1.3
+profession.Management Occupations.Advertising and Promotions Managers,1.1.4
+profession.Management Occupations.Marketing Managers,1.1.5
+profession.Management Occupations.Sales Managers,1.1.6
+profession.Management Occupations.Public Relations Managers,1.1.7
+profession.Management Occupations.Fundraising Managers,1.1.8
+profession.Management Occupations.Administrative Services Managers,1.1.9
+profession.Management Occupations.Facilities Managers,1.1.10
+profession.Management Occupations.Computer and Information Systems Managers,1.1.11
+profession.Management Occupations.Financial Managers,1.1.12
+profession.Management Occupations.Industrial Production Managers,1.1.13
+profession.Management Occupations.Purchasing Managers,1.1.14
+"profession.Management Occupations.Transportation, Storage, and Distribution Managers",1.1.15
+profession.Management Occupations.Compensation and Benefits Managers,1.1.16
+profession.Management Occupations.Human Resources Managers,1.1.17
+profession.Management Occupations.Training and Development Managers,1.1.18
+profession.Management Occupations.Other Management Occupations,1.1.19
+"profession.Management Occupations.Farmers, Ranchers, and Other Agricultural Managers",1.1.20
+"profession.Management Occupations.Farmers, Ranchers, and Other Agricultural Managers",1.1.21
+profession.Management Occupations.Construction Managers,1.1.22
+profession.Management Occupations.Construction Managers,1.1.23
+profession.Management Occupations.Education and Childcare Administrators,1.1.24
+"profession.Management Occupations.Education and Childcare Administrators, Preschool and Daycare",1.1.25
+"profession.Management Occupations.Education Administrators, Kindergarten through Secondary",1.1.26
+"profession.Management Occupations.Education Administrators, Postsecondary",1.1.27
+"profession.Management Occupations.Education Administrators, All Other",1.1.28
+profession.Management Occupations.Architectural and Engineering Managers,1.1.29
+profession.Management Occupations.Architectural and Engineering Managers,1.1.30
+profession.Management Occupations.Food Service Managers,1.1.31
+profession.Management Occupations.Food Service Managers,1.1.32
+profession.Management Occupations.Entertainment and Recreation Managers,1.1.33
+profession.Management Occupations.Gambling Managers,1.1.34
+"profession.Management Occupations.Entertainment and Recreation Managers, Except Gambling",1.1.35
+profession.Management Occupations.Lodging Managers,1.1.36
+profession.Management Occupations.Lodging Managers,1.1.37
+profession.Management Occupations.Medical and Health Services Managers,1.1.38
+profession.Management Occupations.Medical and Health Services Managers,1.1.39
+profession.Management Occupations.Natural Sciences Managers,1.1.40
+profession.Management Occupations.Natural Sciences Managers,1.1.41
+profession.Management Occupations.Postmasters and Mail Superintendents,1.1.42
+profession.Management Occupations.Postmasters and Mail Superintendents,1.1.43
+"profession.Management Occupations.Property, Real Estate, and Community Association Managers",1.1.44
+"profession.Management Occupations.Property, Real Estate, and Community Association Managers",1.1.45
+profession.Management Occupations.Social and Community Service Managers,1.1.46
+profession.Management Occupations.Social and Community Service Managers,1.1.47
+profession.Management Occupations.Emergency Management Directors,1.1.48
+profession.Management Occupations.Emergency Management Directors,1.1.49
+profession.Management Occupations.Personal Service Managers,1.1.50
+profession.Management Occupations.Funeral Home Managers,1.1.51
+"profession.Management Occupations.Personal Service Managers, All Other",1.1.52
+profession.Management Occupations.Miscellaneous Managers,1.1.53
+"profession.Management Occupations.Managers, All Other",1.1.54
+profession.Business and Financial Operations Occupations,1.2
+"profession.Business and Financial Operations Occupations.Agents and Business Managers of Artists, Performers, and Athletes",1.2.1
+"profession.Business and Financial Operations Occupations.Buyers and Purchasing Agents, Farm Products",1.2.2
+"profession.Business and Financial Operations Occupations.Wholesale and Retail Buyers, Except Farm Products",1.2.3
+"profession.Business and Financial Operations Occupations.Purchasing Agents, Except Wholesale, Retail, and Farm Products",1.2.4
+"profession.Business and Financial Operations Occupations.Claims Adjusters, Examiners, and Investigators",1.2.5
+"profession.Business and Financial Operations Occupations.Insurance Appraisers, Auto Damage",1.2.6
+profession.Business and Financial Operations Occupations.Compliance Officers,1.2.7
+profession.Business and Financial Operations Occupations.Cost Estimators,1.2.8
+profession.Business and Financial Operations Occupations.Human Resources Specialists,1.2.9
+profession.Business and Financial Operations Occupations.Farm Labor Contractors,1.2.10
+profession.Business and Financial Operations Occupations.Labor Relations Specialists,1.2.11
+profession.Business and Financial Operations Occupations.Logisticians,1.2.12
+profession.Business and Financial Operations Occupations.Project Management Specialists,1.2.13
+profession.Business and Financial Operations Occupations.Management Analysts,1.2.14
+"profession.Business and Financial Operations Occupations.Meeting, Convention, and Event Planners",1.2.15
+profession.Business and Financial Operations Occupations.Fundraisers,1.2.16
+"profession.Business and Financial Operations Occupations.Compensation, Benefits, and Job Analysis Specialists",1.2.17
+profession.Business and Financial Operations Occupations.Training and Development Specialists,1.2.18
+profession.Business and Financial Operations Occupations.Market Research Analysts and Marketing Specialists,1.2.19
+profession.Business and Financial Operations Occupations.Miscellaneous Business Operations Specialists,1.2.20
+"profession.Business and Financial Operations Occupations.Business Operations Specialists, All Other",1.2.21
+profession.Business and Financial Operations Occupations.Financial Specialists,1.2.22
+profession.Business and Financial Operations Occupations.Accountants and Auditors,1.2.23
+profession.Business and Financial Operations Occupations.Accountants and Auditors,1.2.24
+profession.Business and Financial Operations Occupations.Property Appraisers and Assessors,1.2.25
+profession.Business and Financial Operations Occupations.Appraisers of Personal and Business Property,1.2.26
+profession.Business and Financial Operations Occupations.Appraisers and Assessors of Real Estate,1.2.27
+profession.Business and Financial Operations Occupations.Budget Analysts,1.2.28
+profession.Business and Financial Operations Occupations.Budget Analysts,1.2.29
+profession.Business and Financial Operations Occupations.Credit Analysts,1.2.30
+profession.Business and Financial Operations Occupations.Credit Analysts,1.2.31
+profession.Business and Financial Operations Occupations.Financial Analysts and Advisors,1.2.32
+profession.Business and Financial Operations Occupations.Financial and Investment Analysts,1.2.33
+profession.Business and Financial Operations Occupations.Personal Financial Advisors,1.2.34
+profession.Business and Financial Operations Occupations.Insurance Underwriters,1.2.35
+profession.Business and Financial Operations Occupations.Financial Risk Specialists,1.2.36
+profession.Business and Financial Operations Occupations.Financial Examiners,1.2.37
+profession.Business and Financial Operations Occupations.Financial Examiners,1.2.38
+profession.Business and Financial Operations Occupations.Credit Counselors and Loan Officers,1.2.39
+profession.Business and Financial Operations Occupations.Credit Counselors,1.2.40
+profession.Business and Financial Operations Occupations.Loan Officers,1.2.41
+"profession.Business and Financial Operations Occupations.Tax Examiners, Collectors and Preparers, and Revenue Agents",1.2.42
+"profession.Business and Financial Operations Occupations.Tax Examiners and Collectors, and Revenue Agents",1.2.43
+profession.Business and Financial Operations Occupations.Tax Preparers,1.2.44
+profession.Business and Financial Operations Occupations.Miscellaneous Financial Specialists,1.2.45
+"profession.Business and Financial Operations Occupations.Financial Specialists, All Other",1.2.46
+profession.Computer and Mathematical Occupations,1.3
+profession.Computer and Mathematical Occupations.Computer Systems Analysts,1.3.1
+profession.Computer and Mathematical Occupations.Information Security Analysts,1.3.2
+profession.Computer and Mathematical Occupations.Computer and Information Research Scientists,1.3.3
+profession.Computer and Mathematical Occupations.Computer Network Support Specialists,1.3.4
+profession.Computer and Mathematical Occupations.Computer User Support Specialists,1.3.5
+profession.Computer and Mathematical Occupations.Computer Network Architects,1.3.6
+profession.Computer and Mathematical Occupations.Database Administrators,1.3.7
+profession.Computer and Mathematical Occupations.Database Architects,1.3.8
+profession.Computer and Mathematical Occupations.Network and Computer Systems Administrators,1.3.9
+profession.Computer and Mathematical Occupations.Computer Programmers,1.3.10
+profession.Computer and Mathematical Occupations.Software Developers,1.3.11
+profession.Computer and Mathematical Occupations.Software Quality Assurance Analysts and Testers,1.3.12
+profession.Computer and Mathematical Occupations.Web Developers,1.3.13
+profession.Computer and Mathematical Occupations.Web and Digital Interface Designers,1.3.14
+"profession.Computer and Mathematical Occupations.Computer Occupations, All Other",1.3.15
+profession.Computer and Mathematical Occupations.Actuaries,1.3.16
+profession.Computer and Mathematical Occupations.Mathematicians,1.3.17
+profession.Computer and Mathematical Occupations.Operations Research Analysts,1.3.18
+profession.Computer and Mathematical Occupations.Statisticians,1.3.19
+profession.Computer and Mathematical Occupations.Data Scientists,1.3.20
+"profession.Computer and Mathematical Occupations.Mathematical Science Occupations, All Other",1.3.21
+profession.Architecture and Engineering Occupations,1.4
+"profession.Architecture and Engineering Occupations.Architects, Except Landscape and Naval",1.4.1
+profession.Architecture and Engineering Occupations.Landscape Architects,1.4.2
+profession.Architecture and Engineering Occupations.Cartographers and Photogrammetrists,1.4.3
+profession.Architecture and Engineering Occupations.Surveyors,1.4.4
+profession.Architecture and Engineering Occupations.Aerospace Engineers,1.4.5
+profession.Architecture and Engineering Occupations.Agricultural Engineers,1.4.6
+profession.Architecture and Engineering Occupations.Bioengineers and Biomedical Engineers,1.4.7
+profession.Architecture and Engineering Occupations.Chemical Engineers,1.4.8
+profession.Architecture and Engineering Occupations.Civil Engineers,1.4.9
+profession.Architecture and Engineering Occupations.Computer Hardware Engineers,1.4.10
+profession.Architecture and Engineering Occupations.Electrical Engineers,1.4.11
+"profession.Architecture and Engineering Occupations.Electronics Engineers, Except Computer",1.4.12
+profession.Architecture and Engineering Occupations.Environmental Engineers,1.4.13
+"profession.Architecture and Engineering Occupations.Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",1.4.14
+profession.Architecture and Engineering Occupations.Industrial Engineers,1.4.15
+profession.Architecture and Engineering Occupations.Marine Engineers and Naval Architects,1.4.16
+profession.Architecture and Engineering Occupations.Materials Engineers,1.4.17
+profession.Architecture and Engineering Occupations.Mechanical Engineers,1.4.18
+"profession.Architecture and Engineering Occupations.Mining and Geological Engineers, Including Mining Safety Engineers",1.4.19
+profession.Architecture and Engineering Occupations.Nuclear Engineers,1.4.20
+profession.Architecture and Engineering Occupations.Petroleum Engineers,1.4.21
+"profession.Architecture and Engineering Occupations.Engineers, All Other",1.4.22
+profession.Architecture and Engineering Occupations.Architectural and Civil Drafters,1.4.23
+profession.Architecture and Engineering Occupations.Electrical and Electronics Drafters,1.4.24
+profession.Architecture and Engineering Occupations.Mechanical Drafters,1.4.25
+"profession.Architecture and Engineering Occupations.Drafters, All Other",1.4.26
+profession.Architecture and Engineering Occupations.Aerospace Engineering and Operations Technologists and Technicians,1.4.27
+profession.Architecture and Engineering Occupations.Civil Engineering Technologists and Technicians,1.4.28
+profession.Architecture and Engineering Occupations.Electrical and Electronic Engineering Technologists and Technicians,1.4.29
+profession.Architecture and Engineering Occupations.ElectroMechanical and Mechatronics Technologists and Technicians,1.4.30
+profession.Architecture and Engineering Occupations.Environmental Engineering Technologists and Technicians,1.4.31
+profession.Architecture and Engineering Occupations.Industrial Engineering Technologists and Technicians,1.4.32
+profession.Architecture and Engineering Occupations.Mechanical Engineering Technologists and Technicians,1.4.33
+profession.Architecture and Engineering Occupations.Calibration Technologists and Technicians,1.4.34
+"profession.Architecture and Engineering Occupations.Engineering Technologists and Technicians, Except Drafters, All Other",1.4.35
+profession.Architecture and Engineering Occupations.Surveying and Mapping Technicians,1.4.36
+"profession.Life, Physical, and Social Science Occupations",1.5
+"profession.Life, Physical, and Social Science Occupations.Animal Scientists",1.5.1
+"profession.Life, Physical, and Social Science Occupations.Food Scientists and Technologists",1.5.2
+"profession.Life, Physical, and Social Science Occupations.Soil and Plant Scientists",1.5.3
+"profession.Life, Physical, and Social Science Occupations.Biochemists and Biophysicists",1.5.4
+"profession.Life, Physical, and Social Science Occupations.Microbiologists",1.5.5
+"profession.Life, Physical, and Social Science Occupations.Zoologists and Wildlife Biologists",1.5.6
+"profession.Life, Physical, and Social Science Occupations.Biological Scientists, All Other",1.5.7
+"profession.Life, Physical, and Social Science Occupations.Conservation Scientists",1.5.8
+"profession.Life, Physical, and Social Science Occupations.Foresters",1.5.9
+"profession.Life, Physical, and Social Science Occupations.Epidemiologists",1.5.10
+"profession.Life, Physical, and Social Science Occupations.Medical Scientists, Except Epidemiologists",1.5.11
+"profession.Life, Physical, and Social Science Occupations.Life Scientists, All Other",1.5.12
+"profession.Life, Physical, and Social Science Occupations.Astronomers",1.5.13
+"profession.Life, Physical, and Social Science Occupations.Physicists",1.5.14
+"profession.Life, Physical, and Social Science Occupations.Atmospheric and Space Scientists",1.5.15
+"profession.Life, Physical, and Social Science Occupations.Chemists",1.5.16
+"profession.Life, Physical, and Social Science Occupations.Materials Scientists",1.5.17
+"profession.Life, Physical, and Social Science Occupations.Environmental Scientists and Specialists, Including Health",1.5.18
+"profession.Life, Physical, and Social Science Occupations.Geoscientists, Except Hydrologists and Geographers",1.5.19
+"profession.Life, Physical, and Social Science Occupations.Hydrologists",1.5.20
+"profession.Life, Physical, and Social Science Occupations.Physical Scientists, All Other",1.5.21
+"profession.Life, Physical, and Social Science Occupations.Economists",1.5.22
+"profession.Life, Physical, and Social Science Occupations.Survey Researchers",1.5.23
+"profession.Life, Physical, and Social Science Occupations.IndustrialOrganizational Psychologists",1.5.24
+"profession.Life, Physical, and Social Science Occupations.Clinical and Counseling Psychologists",1.5.25
+"profession.Life, Physical, and Social Science Occupations.School Psychologists",1.5.26
+"profession.Life, Physical, and Social Science Occupations.Psychologists, All Other",1.5.27
+"profession.Life, Physical, and Social Science Occupations.Sociologists",1.5.28
+"profession.Life, Physical, and Social Science Occupations.Urban and Regional Planners",1.5.29
+"profession.Life, Physical, and Social Science Occupations.Anthropologists and Archeologists",1.5.30
+"profession.Life, Physical, and Social Science Occupations.Geographers",1.5.31
+"profession.Life, Physical, and Social Science Occupations.Historians",1.5.32
+"profession.Life, Physical, and Social Science Occupations.Political Scientists",1.5.33
+"profession.Life, Physical, and Social Science Occupations.Social Scientists and Related Workers, All Other",1.5.34
+"profession.Life, Physical, and Social Science Occupations.Agricultural Technicians",1.5.35
+"profession.Life, Physical, and Social Science Occupations.Food Science Technicians",1.5.36
+"profession.Life, Physical, and Social Science Occupations.Biological Technicians",1.5.37
+"profession.Life, Physical, and Social Science Occupations.Chemical Technicians",1.5.38
+"profession.Life, Physical, and Social Science Occupations.Environmental Science and Protection Technicians, Including Health",1.5.39
+"profession.Life, Physical, and Social Science Occupations.Geological Technicians, Except Hydrologic Technicians",1.5.40
+"profession.Life, Physical, and Social Science Occupations.Hydrologic Technicians",1.5.41
+"profession.Life, Physical, and Social Science Occupations.Nuclear Technicians",1.5.42
+"profession.Life, Physical, and Social Science Occupations.Social Science Research Assistants",1.5.43
+"profession.Life, Physical, and Social Science Occupations.Forest and Conservation Technicians",1.5.44
+"profession.Life, Physical, and Social Science Occupations.Forensic Science Technicians",1.5.45
+"profession.Life, Physical, and Social Science Occupations.Life, Physical, and Social Science Technicians, All Other",1.5.46
+"profession.Life, Physical, and Social Science Occupations.Occupational Health and Safety Specialists",1.5.47
+"profession.Life, Physical, and Social Science Occupations.Occupational Health and Safety Technicians",1.5.48
+profession.Community and Social Service Occupations,1.6
+profession.Community and Social Service Occupations.Substance Abuse and Behavioral Disorder Counselors,1.6.1
+"profession.Community and Social Service Occupations.Educational, Guidance, and Career Counselors and Advisors",1.6.2
+profession.Community and Social Service Occupations.Marriage and Family Therapists,1.6.3
+profession.Community and Social Service Occupations.Mental Health Counselors,1.6.4
+profession.Community and Social Service Occupations.Rehabilitation Counselors,1.6.5
+"profession.Community and Social Service Occupations.Counselors, All Other",1.6.6
+"profession.Community and Social Service Occupations.Child, Family, and School Social Workers",1.6.7
+profession.Community and Social Service Occupations.Healthcare Social Workers,1.6.8
+profession.Community and Social Service Occupations.Mental Health and Substance Abuse Social Workers,1.6.9
+"profession.Community and Social Service Occupations.Social Workers, All Other",1.6.10
+profession.Community and Social Service Occupations.Health Education Specialists,1.6.11
+profession.Community and Social Service Occupations.Probation Officers and Correctional Treatment Specialists,1.6.12
+profession.Community and Social Service Occupations.Social and Human Service Assistants,1.6.13
+profession.Community and Social Service Occupations.Community Health Workers,1.6.14
+"profession.Community and Social Service Occupations.Community and Social Service Specialists, All Other",1.6.15
+profession.Community and Social Service Occupations.Clergy,1.6.16
+"profession.Community and Social Service Occupations.Directors, Religious Activities and Education",1.6.17
+"profession.Community and Social Service Occupations.Religious Workers, All Other",1.6.18
+profession.Legal Occupations,1.7
+profession.Legal Occupations.Lawyers,1.7.1
+profession.Legal Occupations.Judicial Law Clerks,1.7.2
+"profession.Legal Occupations.Administrative Law Judges, Adjudicators, and Hearing Officers",1.7.3
+"profession.Legal Occupations.Arbitrators, Mediators, and Conciliators",1.7.4
+"profession.Legal Occupations.Judges, Magistrate Judges, and Magistrates",1.7.5
+profession.Legal Occupations.Paralegals and Legal Assistants,1.7.6
+"profession.Legal Occupations.Title Examiners, Abstractors, and Searchers",1.7.7
+"profession.Legal Occupations.Legal Support Workers, All Other",1.7.8
+profession.Educational Instruction and Library Occupations,1.8
+"profession.Educational Instruction and Library Occupations.Business Teachers, Postsecondary",1.8.1
+"profession.Educational Instruction and Library Occupations.Computer Science Teachers, Postsecondary",1.8.2
+"profession.Educational Instruction and Library Occupations.Mathematical Science Teachers, Postsecondary",1.8.3
+"profession.Educational Instruction and Library Occupations.Architecture Teachers, Postsecondary",1.8.4
+"profession.Educational Instruction and Library Occupations.Engineering Teachers, Postsecondary",1.8.5
+"profession.Educational Instruction and Library Occupations.Agricultural Sciences Teachers, Postsecondary",1.8.6
+"profession.Educational Instruction and Library Occupations.Biological Science Teachers, Postsecondary",1.8.7
+"profession.Educational Instruction and Library Occupations.Forestry and Conservation Science Teachers, Postsecondary",1.8.8
+"profession.Educational Instruction and Library Occupations.Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary",1.8.9
+"profession.Educational Instruction and Library Occupations.Chemistry Teachers, Postsecondary",1.8.10
+"profession.Educational Instruction and Library Occupations.Environmental Science Teachers, Postsecondary",1.8.11
+"profession.Educational Instruction and Library Occupations.Physics Teachers, Postsecondary",1.8.12
+"profession.Educational Instruction and Library Occupations.Anthropology and Archeology Teachers, Postsecondary",1.8.13
+"profession.Educational Instruction and Library Occupations.Area, Ethnic, and Cultural Studies Teachers, Postsecondary",1.8.14
+"profession.Educational Instruction and Library Occupations.Economics Teachers, Postsecondary",1.8.15
+"profession.Educational Instruction and Library Occupations.Geography Teachers, Postsecondary",1.8.16
+"profession.Educational Instruction and Library Occupations.Political Science Teachers, Postsecondary",1.8.17
+"profession.Educational Instruction and Library Occupations.Psychology Teachers, Postsecondary",1.8.18
+"profession.Educational Instruction and Library Occupations.Sociology Teachers, Postsecondary",1.8.19
+"profession.Educational Instruction and Library Occupations.Social Sciences Teachers, Postsecondary, All Other",1.8.20
+"profession.Educational Instruction and Library Occupations.Health Specialties Teachers, Postsecondary",1.8.21
+"profession.Educational Instruction and Library Occupations.Nursing Instructors and Teachers, Postsecondary",1.8.22
+"profession.Educational Instruction and Library Occupations.Education Teachers, Postsecondary",1.8.23
+"profession.Educational Instruction and Library Occupations.Library Science Teachers, Postsecondary",1.8.24
+"profession.Educational Instruction and Library Occupations.Criminal Justice and Law Enforcement Teachers, Postsecondary",1.8.25
+"profession.Educational Instruction and Library Occupations.Law Teachers, Postsecondary",1.8.26
+"profession.Educational Instruction and Library Occupations.Social Work Teachers, Postsecondary",1.8.27
+"profession.Educational Instruction and Library Occupations.Art, Drama, and Music Teachers, Postsecondary",1.8.28
+"profession.Educational Instruction and Library Occupations.Communications Teachers, Postsecondary",1.8.29
+"profession.Educational Instruction and Library Occupations.English Language and Literature Teachers, Postsecondary",1.8.30
+"profession.Educational Instruction and Library Occupations.Foreign Language and Literature Teachers, Postsecondary",1.8.31
+"profession.Educational Instruction and Library Occupations.History Teachers, Postsecondary",1.8.32
+"profession.Educational Instruction and Library Occupations.Philosophy and Religion Teachers, Postsecondary",1.8.33
+"profession.Educational Instruction and Library Occupations.Family and Consumer Sciences Teachers, Postsecondary",1.8.34
+"profession.Educational Instruction and Library Occupations.Recreation and Fitness Studies Teachers, Postsecondary",1.8.35
+"profession.Educational Instruction and Library Occupations.Career/Technical Education Teachers, Postsecondary",1.8.36
+"profession.Educational Instruction and Library Occupations.Postsecondary Teachers, All Other",1.8.37
+"profession.Educational Instruction and Library Occupations.Preschool Teachers, Except Special Education",1.8.38
+"profession.Educational Instruction and Library Occupations.Kindergarten Teachers, Except Special Education",1.8.39
+"profession.Educational Instruction and Library Occupations.Elementary School Teachers, Except Special Education",1.8.40
+"profession.Educational Instruction and Library Occupations.Middle School Teachers, Except Special and Career/Technical Education",1.8.41
+"profession.Educational Instruction and Library Occupations.Career/Technical Education Teachers, Middle School",1.8.42
+"profession.Educational Instruction and Library Occupations.Secondary School Teachers, Except Special and Career/Technical Education",1.8.43
+"profession.Educational Instruction and Library Occupations.Career/Technical Education Teachers, Secondary School",1.8.44
+"profession.Educational Instruction and Library Occupations.Special Education Teachers, Preschool",1.8.45
+"profession.Educational Instruction and Library Occupations.Special Education Teachers, Kindergarten",1.8.46
+"profession.Educational Instruction and Library Occupations.Special Education Teachers, Elementary School",1.8.47
+"profession.Educational Instruction and Library Occupations.Special Education Teachers, Middle School",1.8.48
+"profession.Educational Instruction and Library Occupations.Special Education Teachers, Secondary School",1.8.49
+"profession.Educational Instruction and Library Occupations.Special Education Teachers, All Other",1.8.50
+"profession.Educational Instruction and Library Occupations.Adult Basic Education, Adult Secondary Education, and English as a Second Language Instructors",1.8.51
+profession.Educational Instruction and Library Occupations.SelfEnrichment Teachers,1.8.52
+"profession.Educational Instruction and Library Occupations.Substitute Teachers, ShortTerm",1.8.53
+profession.Educational Instruction and Library Occupations.Tutors,1.8.54
+"profession.Educational Instruction and Library Occupations.Teachers and Instructors, All Other",1.8.55
+profession.Educational Instruction and Library Occupations.Archivists,1.8.56
+profession.Educational Instruction and Library Occupations.Curators,1.8.57
+profession.Educational Instruction and Library Occupations.Museum Technicians and Conservators,1.8.58
+profession.Educational Instruction and Library Occupations.Librarians and Media Collections Specialists,1.8.59
+profession.Educational Instruction and Library Occupations.Library Technicians,1.8.60
+profession.Educational Instruction and Library Occupations.Farm and Home Management Educators,1.8.61
+profession.Educational Instruction and Library Occupations.Instructional Coordinators,1.8.62
+"profession.Educational Instruction and Library Occupations.Teaching Assistants, Preschool, Elementary, Middle, and Secondary School, Except Special Education",1.8.63
+"profession.Educational Instruction and Library Occupations.Teaching Assistants, Special Education",1.8.64
+"profession.Educational Instruction and Library Occupations.Teaching Assistants, Postsecondary",1.8.65
+"profession.Educational Instruction and Library Occupations.Teaching Assistants, All Other",1.8.66
+"profession.Educational Instruction and Library Occupations.Educational Instruction and Library Workers, All Other",1.8.67
+"profession.Arts, Design, Entertainment, Sports, and Media Occupations",1.9
+"profession.Arts, Design, Entertainment, Sports, and Media Occupations.Art Directors",1.9.1
+"profession.Arts, Design, Entertainment, Sports, and Media Occupations.Craft Artists",1.9.2
+"profession.Arts, Design, Entertainment, Sports, and Media Occupations.Fine Artists, Including Painters, Sculptors, and Illustrators",1.9.3
+"profession.Arts, Design, Entertainment, Sports, and Media Occupations.Special Effects Artists and Animators",1.9.4
+"profession.Arts, Design, Entertainment, Sports, and Media Occupations.Artists and Related Workers, All Other",1.9.5
+"profession.Arts, Design, Entertainment, Sports, and Media Occupations.Commercial and Industrial Designers",1.9.6
+"profession.Arts, Design, Entertainment, Sports, and Media Occupations.Fashion Designers",1.9.7
+"profession.Arts, Design, Entertainment, Sports, and Media Occupations.Floral Designers",1.9.8
+"profession.Arts, Design, Entertainment, Sports, and Media Occupations.Graphic Designers",1.9.9
+"profession.Arts, Design, Entertainment, Sports, and Media Occupations.Interior Designers",1.9.10
+"profession.Arts, Design, Entertainment, Sports, and Media Occupations.Merchandise Displayers and Window Trimmers",1.9.11
+"profession.Arts, Design, Entertainment, Sports, and Media Occupations.Set and Exhibit Designers",1.9.12
+"profession.Arts, Design, Entertainment, Sports, and Media Occupations.Designers, All Other",1.9.13
+"profession.Arts, Design, Entertainment, Sports, and Media Occupations.Actors",1.9.14
+"profession.Arts, Design, Entertainment, Sports, and Media Occupations.Producers and Directors",1.9.15
+"profession.Arts, Design, Entertainment, Sports, and Media Occupations.Athletes and Sports Competitors",1.9.16
+"profession.Arts, Design, Entertainment, Sports, and Media Occupations.Coaches and Scouts",1.9.17
+"profession.Arts, Design, Entertainment, Sports, and Media Occupations.Umpires, Referees, and Other Sports Officials",1.9.18
+"profession.Arts, Design, Entertainment, Sports, and Media Occupations.Dancers",1.9.19
+"profession.Arts, Design, Entertainment, Sports, and Media Occupations.Choreographers",1.9.20
+"profession.Arts, Design, Entertainment, Sports, and Media Occupations.Music Directors and Composers",1.9.21
+"profession.Arts, Design, Entertainment, Sports, and Media Occupations.Musicians and Singers",1.9.22
+"profession.Arts, Design, Entertainment, Sports, and Media Occupations.Disc Jockeys, Except Radio",1.9.23
+"profession.Arts, Design, Entertainment, Sports, and Media Occupations.Entertainers and Performers, Sports and Related Workers, All Other",1.9.24
+"profession.Arts, Design, Entertainment, Sports, and Media Occupations.Broadcast Announcers and Radio Disc Jockeys",1.9.25
+"profession.Arts, Design, Entertainment, Sports, and Media Occupations.News Analysts, Reporters, and Journalists",1.9.26
+"profession.Arts, Design, Entertainment, Sports, and Media Occupations.Public Relations Specialists",1.9.27
+"profession.Arts, Design, Entertainment, Sports, and Media Occupations.Editors",1.9.28
+"profession.Arts, Design, Entertainment, Sports, and Media Occupations.Technical Writers",1.9.29
+"profession.Arts, Design, Entertainment, Sports, and Media Occupations.Writers and Authors",1.9.30
+"profession.Arts, Design, Entertainment, Sports, and Media Occupations.Interpreters and Translators",1.9.31
+"profession.Arts, Design, Entertainment, Sports, and Media Occupations.Court Reporters and Simultaneous Captioners",1.9.32
+"profession.Arts, Design, Entertainment, Sports, and Media Occupations.Media and Communication Workers, All Other",1.9.33
+"profession.Arts, Design, Entertainment, Sports, and Media Occupations.Audio and Video Technicians",1.9.34
+"profession.Arts, Design, Entertainment, Sports, and Media Occupations.Broadcast Technicians",1.9.35
+"profession.Arts, Design, Entertainment, Sports, and Media Occupations.Sound Engineering Technicians",1.9.36
+"profession.Arts, Design, Entertainment, Sports, and Media Occupations.Lighting Technicians",1.9.37
+"profession.Arts, Design, Entertainment, Sports, and Media Occupations.Photographers",1.9.38
+"profession.Arts, Design, Entertainment, Sports, and Media Occupations.Camera Operators, Television, Video, and Film",1.9.39
+"profession.Arts, Design, Entertainment, Sports, and Media Occupations.Film and Video Editors",1.9.40
+"profession.Arts, Design, Entertainment, Sports, and Media Occupations.Media and Communication Equipment Workers, All Other",1.9.41
+profession.Healthcare Practitioners and Technical Occupations,1.10
+profession.Healthcare Practitioners and Technical Occupations.Chiropractors,1.10.1
+"profession.Healthcare Practitioners and Technical Occupations.Dentists, General",1.10.2
+profession.Healthcare Practitioners and Technical Occupations.Oral and Maxillofacial Surgeons,1.10.3
+profession.Healthcare Practitioners and Technical Occupations.Orthodontists,1.10.4
+profession.Healthcare Practitioners and Technical Occupations.Prosthodontists,1.10.5
+"profession.Healthcare Practitioners and Technical Occupations.Dentists, All Other Specialists",1.10.6
+profession.Healthcare Practitioners and Technical Occupations.Dietitians and Nutritionists,1.10.7
+profession.Healthcare Practitioners and Technical Occupations.Optometrists,1.10.8
+profession.Healthcare Practitioners and Technical Occupations.Pharmacists,1.10.9
+profession.Healthcare Practitioners and Technical Occupations.Physician Assistants,1.10.10
+profession.Healthcare Practitioners and Technical Occupations.Podiatrists,1.10.11
+profession.Healthcare Practitioners and Technical Occupations.Occupational Therapists,1.10.12
+profession.Healthcare Practitioners and Technical Occupations.Physical Therapists,1.10.13
+profession.Healthcare Practitioners and Technical Occupations.Radiation Therapists,1.10.14
+profession.Healthcare Practitioners and Technical Occupations.Recreational Therapists,1.10.15
+profession.Healthcare Practitioners and Technical Occupations.Respiratory Therapists,1.10.16
+profession.Healthcare Practitioners and Technical Occupations.SpeechLanguage Pathologists,1.10.17
+profession.Healthcare Practitioners and Technical Occupations.Exercise Physiologists,1.10.18
+"profession.Healthcare Practitioners and Technical Occupations.Therapists, All Other",1.10.19
+profession.Healthcare Practitioners and Technical Occupations.Veterinarians,1.10.20
+profession.Healthcare Practitioners and Technical Occupations.Registered Nurses,1.10.21
+profession.Healthcare Practitioners and Technical Occupations.Nurse Anesthetists,1.10.22
+profession.Healthcare Practitioners and Technical Occupations.Nurse Midwives,1.10.23
+profession.Healthcare Practitioners and Technical Occupations.Nurse Practitioners,1.10.24
+profession.Healthcare Practitioners and Technical Occupations.Audiologists,1.10.25
+profession.Healthcare Practitioners and Technical Occupations.Anesthesiologists,1.10.26
+profession.Healthcare Practitioners and Technical Occupations.Cardiologists,1.10.27
+profession.Healthcare Practitioners and Technical Occupations.Dermatologists,1.10.28
+profession.Healthcare Practitioners and Technical Occupations.Emergency Medicine Physicians,1.10.29
+profession.Healthcare Practitioners and Technical Occupations.Family Medicine Physicians,1.10.30
+profession.Healthcare Practitioners and Technical Occupations.General Internal Medicine Physicians,1.10.31
+profession.Healthcare Practitioners and Technical Occupations.Neurologists,1.10.32
+profession.Healthcare Practitioners and Technical Occupations.Obstetricians and Gynecologists,1.10.33
+"profession.Healthcare Practitioners and Technical Occupations.Pediatricians, General",1.10.34
+"profession.Healthcare Practitioners and Technical Occupations.Physicians, Pathologists",1.10.35
+profession.Healthcare Practitioners and Technical Occupations.Psychiatrists,1.10.36
+profession.Healthcare Practitioners and Technical Occupations.Radiologists,1.10.37
+"profession.Healthcare Practitioners and Technical Occupations.Physicians, All Other",1.10.38
+"profession.Healthcare Practitioners and Technical Occupations.Ophthalmologists, Except Pediatric",1.10.39
+"profession.Healthcare Practitioners and Technical Occupations.Orthopedic Surgeons, Except Pediatric",1.10.40
+profession.Healthcare Practitioners and Technical Occupations.Pediatric Surgeons,1.10.41
+"profession.Healthcare Practitioners and Technical Occupations.Surgeons, All Other",1.10.42
+profession.Healthcare Practitioners and Technical Occupations.Miscellaneous Healthcare Diagnosing or Treating Practitioners,1.10.43
+profession.Healthcare Practitioners and Technical Occupations.Acupuncturists,1.10.44
+profession.Healthcare Practitioners and Technical Occupations.Dental Hygienists,1.10.45
+"profession.Healthcare Practitioners and Technical Occupations.Healthcare Diagnosing or Treating Practitioners, All Other",1.10.46
+profession.Healthcare Practitioners and Technical Occupations.Medical and Clinical Laboratory Technologists,1.10.47
+profession.Healthcare Practitioners and Technical Occupations.Medical and Clinical Laboratory Technicians,1.10.48
+profession.Healthcare Practitioners and Technical Occupations.Cardiovascular Technologists and Technicians,1.10.49
+profession.Healthcare Practitioners and Technical Occupations.Diagnostic Medical Sonographers,1.10.50
+profession.Healthcare Practitioners and Technical Occupations.Nuclear Medicine Technologists,1.10.51
+profession.Healthcare Practitioners and Technical Occupations.Radiologic Technologists and Technicians,1.10.52
+profession.Healthcare Practitioners and Technical Occupations.Magnetic Resonance Imaging Technologists,1.10.53
+profession.Healthcare Practitioners and Technical Occupations.Medical Dosimetrists,1.10.54
+profession.Healthcare Practitioners and Technical Occupations.Emergency Medical Technicians,1.10.55
+profession.Healthcare Practitioners and Technical Occupations.Paramedics,1.10.56
+profession.Healthcare Practitioners and Technical Occupations.Dietetic Technicians,1.10.57
+profession.Healthcare Practitioners and Technical Occupations.Pharmacy Technicians,1.10.58
+profession.Healthcare Practitioners and Technical Occupations.Psychiatric Technicians,1.10.59
+profession.Healthcare Practitioners and Technical Occupations.Surgical Technologists,1.10.60
+profession.Healthcare Practitioners and Technical Occupations.Veterinary Technologists and Technicians,1.10.61
+profession.Healthcare Practitioners and Technical Occupations.Ophthalmic Medical Technicians,1.10.62
+profession.Healthcare Practitioners and Technical Occupations.Licensed Practical and Licensed Vocational Nurses,1.10.63
+profession.Healthcare Practitioners and Technical Occupations.Medical Records Specialists,1.10.64
+"profession.Healthcare Practitioners and Technical Occupations.Opticians, Dispensing",1.10.65
+profession.Healthcare Practitioners and Technical Occupations.Orthotists and Prosthetists,1.10.66
+profession.Healthcare Practitioners and Technical Occupations.Hearing Aid Specialists,1.10.67
+"profession.Healthcare Practitioners and Technical Occupations.Health Technologists and Technicians, All Other",1.10.68
+profession.Healthcare Practitioners and Technical Occupations.Health Information Technologists and Medical Registrars,1.10.69
+profession.Healthcare Practitioners and Technical Occupations.Athletic Trainers,1.10.70
+profession.Healthcare Practitioners and Technical Occupations.Genetic Counselors,1.10.71
+profession.Healthcare Practitioners and Technical Occupations.Surgical Assistants,1.10.72
+"profession.Healthcare Practitioners and Technical Occupations.Healthcare Practitioners and Technical Workers, All Other",1.10.73
+profession.Healthcare Support Occupations,1.11
+profession.Healthcare Support Occupations.Home Health Aides,1.11.1
+profession.Healthcare Support Occupations.Personal Care Aides,1.11.2
+profession.Healthcare Support Occupations.Nursing Assistants,1.11.3
+profession.Healthcare Support Occupations.Orderlies,1.11.4
+profession.Healthcare Support Occupations.Psychiatric Aides,1.11.5
+profession.Healthcare Support Occupations.Occupational Therapy Assistants,1.11.6
+profession.Healthcare Support Occupations.Occupational Therapy Aides,1.11.7
+profession.Healthcare Support Occupations.Physical Therapist Assistants,1.11.8
+profession.Healthcare Support Occupations.Physical Therapist Aides,1.11.9
+profession.Healthcare Support Occupations.Massage Therapists,1.11.10
+profession.Healthcare Support Occupations.Dental Assistants,1.11.11
+profession.Healthcare Support Occupations.Medical Assistants,1.11.12
+profession.Healthcare Support Occupations.Medical Equipment Preparers,1.11.13
+profession.Healthcare Support Occupations.Medical Transcriptionists,1.11.14
+profession.Healthcare Support Occupations.Pharmacy Aides,1.11.15
+profession.Healthcare Support Occupations.Veterinary Assistants and Laboratory Animal Caretakers,1.11.16
+profession.Healthcare Support Occupations.Phlebotomists,1.11.17
+"profession.Healthcare Support Occupations.Healthcare Support Workers, All Other",1.11.18
+profession.Protective Service Occupations,1.12
+profession.Protective Service Occupations.FirstLine Supervisors of Correctional Officers,1.12.1
+profession.Protective Service Occupations.FirstLine Supervisors of Police and Detectives,1.12.2
+profession.Protective Service Occupations.FirstLine Supervisors of Firefighting and Prevention Workers,1.12.3
+profession.Protective Service Occupations.FirstLine Supervisors of Security Workers,1.12.4
+"profession.Protective Service Occupations.FirstLine Supervisors of Protective Service Workers, All Other",1.12.5
+profession.Protective Service Occupations.Firefighters,1.12.6
+profession.Protective Service Occupations.Fire Inspectors and Investigators,1.12.7
+profession.Protective Service Occupations.Forest Fire Inspectors and Prevention Specialists,1.12.8
+profession.Protective Service Occupations.Bailiffs,1.12.9
+profession.Protective Service Occupations.Correctional Officers and Jailers,1.12.10
+profession.Protective Service Occupations.Detectives and Criminal Investigators,1.12.11
+profession.Protective Service Occupations.Fish and Game Wardens,1.12.12
+profession.Protective Service Occupations.Parking Enforcement Workers,1.12.13
+profession.Protective Service Occupations.Police and Sheriff's Patrol Officers,1.12.14
+profession.Protective Service Occupations.Transit and Railroad Police,1.12.15
+profession.Protective Service Occupations.Animal Control Workers,1.12.16
+profession.Protective Service Occupations.Private Detectives and Investigators,1.12.17
+profession.Protective Service Occupations.Gambling Surveillance Officers and Gambling Investigators,1.12.18
+profession.Protective Service Occupations.Security Guards,1.12.19
+profession.Protective Service Occupations.Crossing Guards and Flaggers,1.12.20
+"profession.Protective Service Occupations.Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers",1.12.21
+profession.Protective Service Occupations.Transportation Security Screeners,1.12.22
+profession.Protective Service Occupations.School Bus Monitors,1.12.23
+"profession.Protective Service Occupations.Protective Service Workers, All Other",1.12.24
+profession.Food Preparation and Serving Related Occupations,1.13
+profession.Food Preparation and Serving Related Occupations.Chefs and Head Cooks,1.13.1
+profession.Food Preparation and Serving Related Occupations.FirstLine Supervisors of Food Preparation and Serving Workers,1.13.2
+"profession.Food Preparation and Serving Related Occupations.Cooks, Fast Food",1.13.3
+"profession.Food Preparation and Serving Related Occupations.Cooks, Institution and Cafeteria",1.13.4
+"profession.Food Preparation and Serving Related Occupations.Cooks, Private Household",1.13.5
+"profession.Food Preparation and Serving Related Occupations.Cooks, Restaurant",1.13.6
+"profession.Food Preparation and Serving Related Occupations.Cooks, Short Order",1.13.7
+"profession.Food Preparation and Serving Related Occupations.Cooks, All Other",1.13.8
+profession.Food Preparation and Serving Related Occupations.Food Preparation Workers,1.13.9
+profession.Food Preparation and Serving Related Occupations.Bartenders,1.13.10
+profession.Food Preparation and Serving Related Occupations.Fast Food and Counter Workers,1.13.11
+profession.Food Preparation and Serving Related Occupations.Waiters and Waitresses,1.13.12
+"profession.Food Preparation and Serving Related Occupations.Food Servers, Nonrestaurant",1.13.13
+profession.Food Preparation and Serving Related Occupations.Dining Room and Cafeteria Attendants and Bartender Helpers,1.13.14
+profession.Food Preparation and Serving Related Occupations.Dishwashers,1.13.15
+"profession.Food Preparation and Serving Related Occupations.Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop",1.13.16
+"profession.Food Preparation and Serving Related Occupations.Food Preparation and Serving Related Workers, All Other",1.13.17
+profession.Building and Grounds Cleaning and Maintenance Occupations,1.14
+profession.Building and Grounds Cleaning and Maintenance Occupations.FirstLine Supervisors of Housekeeping and Janitorial Workers,1.14.1
+"profession.Building and Grounds Cleaning and Maintenance Occupations.FirstLine Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers",1.14.2
+"profession.Building and Grounds Cleaning and Maintenance Occupations.Janitors and Cleaners, Except Maids and Housekeeping Cleaners",1.14.3
+profession.Building and Grounds Cleaning and Maintenance Occupations.Maids and Housekeeping Cleaners,1.14.4
+"profession.Building and Grounds Cleaning and Maintenance Occupations.Building Cleaning Workers, All Other",1.14.5
+profession.Building and Grounds Cleaning and Maintenance Occupations.Pest Control Workers,1.14.6
+profession.Building and Grounds Cleaning and Maintenance Occupations.Landscaping and Groundskeeping Workers,1.14.7
+"profession.Building and Grounds Cleaning and Maintenance Occupations.Pesticide Handlers, Sprayers, and Applicators, Vegetation",1.14.8
+profession.Building and Grounds Cleaning and Maintenance Occupations.Tree Trimmers and Pruners,1.14.9
+"profession.Building and Grounds Cleaning and Maintenance Occupations.Grounds Maintenance Workers, All Other",1.14.10
+profession.Personal Care and Service Occupations,1.15
+profession.Personal Care and Service Occupations.FirstLine Supervisors of Gambling Services Workers,1.15.1
+"profession.Personal Care and Service Occupations.FirstLine Supervisors of Entertainment and Recreation Workers, Except Gambling Services",1.15.2
+profession.Personal Care and Service Occupations.FirstLine Supervisors of Personal Service Workers,1.15.3
+profession.Personal Care and Service Occupations.Animal Trainers,1.15.4
+profession.Personal Care and Service Occupations.Animal Caretakers,1.15.5
+profession.Personal Care and Service Occupations.Gambling Dealers,1.15.6
+profession.Personal Care and Service Occupations.Gambling and Sports Book Writers and Runners,1.15.7
+"profession.Personal Care and Service Occupations.Gambling Service Workers, All Other",1.15.8
+profession.Personal Care and Service Occupations.Motion Picture Projectionists,1.15.9
+"profession.Personal Care and Service Occupations.Ushers, Lobby Attendants, and Ticket Takers",1.15.10
+profession.Personal Care and Service Occupations.Amusement and Recreation Attendants,1.15.11
+profession.Personal Care and Service Occupations.Costume Attendants,1.15.12
+"profession.Personal Care and Service Occupations.Locker Room, Coatroom, and Dressing Room Attendants",1.15.13
+"profession.Personal Care and Service Occupations.Entertainment Attendants and Related Workers, All Other",1.15.14
+profession.Personal Care and Service Occupations.Embalmers,1.15.15
+profession.Personal Care and Service Occupations.Crematory Operators,1.15.16
+profession.Personal Care and Service Occupations.Funeral Attendants,1.15.17
+"profession.Personal Care and Service Occupations.Morticians, Undertakers, and Funeral Arrangers",1.15.18
+profession.Personal Care and Service Occupations.Barbers,1.15.19
+"profession.Personal Care and Service Occupations.Hairdressers, Hairstylists, and Cosmetologists",1.15.20
+"profession.Personal Care and Service Occupations.Makeup Artists, Theatrical and Performance",1.15.21
+profession.Personal Care and Service Occupations.Manicurists and Pedicurists,1.15.22
+profession.Personal Care and Service Occupations.Shampooers,1.15.23
+profession.Personal Care and Service Occupations.Skincare Specialists,1.15.24
+profession.Personal Care and Service Occupations.Baggage Porters and Bellhops,1.15.25
+profession.Personal Care and Service Occupations.Concierges,1.15.26
+profession.Personal Care and Service Occupations.Tour Guides and Escorts,1.15.27
+profession.Personal Care and Service Occupations.Travel Guides,1.15.28
+profession.Personal Care and Service Occupations.Childcare Workers,1.15.29
+profession.Personal Care and Service Occupations.Exercise Trainers and Group Fitness Instructors,1.15.30
+profession.Personal Care and Service Occupations.Recreation Workers,1.15.31
+profession.Personal Care and Service Occupations.Residential Advisors,1.15.32
+"profession.Personal Care and Service Occupations.Personal Care and Service Workers, All Other",1.15.33
+profession.Sales and Related Occupations,1.16
+profession.Sales and Related Occupations.FirstLine Supervisors of Retail Sales Workers,1.16.1
+profession.Sales and Related Occupations.FirstLine Supervisors of NonRetail Sales Workers,1.16.2
+profession.Sales and Related Occupations.Cashiers,1.16.3
+profession.Sales and Related Occupations.Gambling Change Persons and Booth Cashiers,1.16.4
+profession.Sales and Related Occupations.Counter and Rental Clerks,1.16.5
+profession.Sales and Related Occupations.Parts Salespersons,1.16.6
+profession.Sales and Related Occupations.Retail Salespersons,1.16.7
+profession.Sales and Related Occupations.Advertising Sales Agents,1.16.8
+profession.Sales and Related Occupations.Insurance Sales Agents,1.16.9
+"profession.Sales and Related Occupations.Securities, Commodities, and Financial Services Sales Agents",1.16.10
+profession.Sales and Related Occupations.Travel Agents,1.16.11
+"profession.Sales and Related Occupations.Sales Representatives of Services, Except Advertising, Insurance, Financial Services, and Travel",1.16.12
+"profession.Sales and Related Occupations.Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",1.16.13
+"profession.Sales and Related Occupations.Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products",1.16.14
+profession.Sales and Related Occupations.Demonstrators and Product Promoters,1.16.15
+profession.Sales and Related Occupations.Models,1.16.16
+profession.Sales and Related Occupations.Real Estate Brokers,1.16.17
+profession.Sales and Related Occupations.Real Estate Sales Agents,1.16.18
+profession.Sales and Related Occupations.Sales Engineers,1.16.19
+profession.Sales and Related Occupations.Telemarketers,1.16.20
+"profession.Sales and Related Occupations.DoortoDoor Sales Workers, News and Street Vendors, and Related Workers",1.16.21
+"profession.Sales and Related Occupations.Sales and Related Workers, All Other",1.16.22
+profession.Office and Administrative Support Occupations,1.17
+profession.Office and Administrative Support Occupations.FirstLine Supervisors of Office and Administrative Support Workers,1.17.1
+"profession.Office and Administrative Support Occupations.Switchboard Operators, Including Answering Service",1.17.2
+profession.Office and Administrative Support Occupations.Telephone Operators,1.17.3
+"profession.Office and Administrative Support Occupations.Communications Equipment Operators, All Other",1.17.4
+profession.Office and Administrative Support Occupations.Bill and Account Collectors,1.17.5
+profession.Office and Administrative Support Occupations.Billing and Posting Clerks,1.17.6
+"profession.Office and Administrative Support Occupations.Bookkeeping, Accounting, and Auditing Clerks",1.17.7
+profession.Office and Administrative Support Occupations.Gambling Cage Workers,1.17.8
+profession.Office and Administrative Support Occupations.Payroll and Timekeeping Clerks,1.17.9
+profession.Office and Administrative Support Occupations.Procurement Clerks,1.17.10
+profession.Office and Administrative Support Occupations.Tellers,1.17.11
+"profession.Office and Administrative Support Occupations.Financial Clerks, All Other",1.17.12
+profession.Office and Administrative Support Occupations.Brokerage Clerks,1.17.13
+profession.Office and Administrative Support Occupations.Correspondence Clerks,1.17.14
+"profession.Office and Administrative Support Occupations.Court, Municipal, and License Clerks",1.17.15
+"profession.Office and Administrative Support Occupations.Credit Authorizers, Checkers, and Clerks",1.17.16
+profession.Office and Administrative Support Occupations.Customer Service Representatives,1.17.17
+"profession.Office and Administrative Support Occupations.Eligibility Interviewers, Government Programs",1.17.18
+profession.Office and Administrative Support Occupations.File Clerks,1.17.19
+"profession.Office and Administrative Support Occupations.Hotel, Motel, and Resort Desk Clerks",1.17.20
+"profession.Office and Administrative Support Occupations.Interviewers, Except Eligibility and Loan",1.17.21
+"profession.Office and Administrative Support Occupations.Library Assistants, Clerical",1.17.22
+profession.Office and Administrative Support Occupations.Loan Interviewers and Clerks,1.17.23
+profession.Office and Administrative Support Occupations.New Accounts Clerks,1.17.24
+profession.Office and Administrative Support Occupations.Order Clerks,1.17.25
+"profession.Office and Administrative Support Occupations.Human Resources Assistants, Except Payroll and Timekeeping",1.17.26
+profession.Office and Administrative Support Occupations.Receptionists and Information Clerks,1.17.27
+profession.Office and Administrative Support Occupations.Reservation and Transportation Ticket Agents and Travel Clerks,1.17.28
+"profession.Office and Administrative Support Occupations.Information and Record Clerks, All Other",1.17.29
+profession.Office and Administrative Support Occupations.Cargo and Freight Agents,1.17.30
+profession.Office and Administrative Support Occupations.Couriers and Messengers,1.17.31
+profession.Office and Administrative Support Occupations.Public Safety Telecommunicators,1.17.32
+"profession.Office and Administrative Support Occupations.Dispatchers, Except Police, Fire, and Ambulance",1.17.33
+"profession.Office and Administrative Support Occupations.Meter Readers, Utilities",1.17.34
+profession.Office and Administrative Support Occupations.Postal Service Clerks,1.17.35
+profession.Office and Administrative Support Occupations.Postal Service Mail Carriers,1.17.36
+"profession.Office and Administrative Support Occupations.Postal Service Mail Sorters, Processors, and Processing Machine Operators",1.17.37
+"profession.Office and Administrative Support Occupations.Production, Planning, and Expediting Clerks",1.17.38
+"profession.Office and Administrative Support Occupations.Shipping, Receiving, and Inventory Clerks",1.17.39
+"profession.Office and Administrative Support Occupations.Weighers, Measurers, Checkers, and Samplers, Recordkeeping",1.17.40
+profession.Office and Administrative Support Occupations.Executive Secretaries and Executive Administrative Assistants,1.17.41
+profession.Office and Administrative Support Occupations.Legal Secretaries and Administrative Assistants,1.17.42
+profession.Office and Administrative Support Occupations.Medical Secretaries and Administrative Assistants,1.17.43
+"profession.Office and Administrative Support Occupations.Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",1.17.44
+profession.Office and Administrative Support Occupations.Data Entry Keyers,1.17.45
+profession.Office and Administrative Support Occupations.Word Processors and Typists,1.17.46
+profession.Office and Administrative Support Occupations.Desktop Publishers,1.17.47
+profession.Office and Administrative Support Occupations.Insurance Claims and Policy Processing Clerks,1.17.48
+"profession.Office and Administrative Support Occupations.Mail Clerks and Mail Machine Operators, Except Postal Service",1.17.49
+"profession.Office and Administrative Support Occupations.Office Clerks, General",1.17.50
+"profession.Office and Administrative Support Occupations.Office Machine Operators, Except Computer",1.17.51
+profession.Office and Administrative Support Occupations.Proofreaders and Copy Markers,1.17.52
+profession.Office and Administrative Support Occupations.Statistical Assistants,1.17.53
+"profession.Office and Administrative Support Occupations.Office and Administrative Support Workers, All Other",1.17.54
+"profession.Farming, Fishing, and Forestry Occupations",1.18
+"profession.Farming, Fishing, and Forestry Occupations.FirstLine Supervisors of Farming, Fishing, and Forestry Workers",1.18.1
+"profession.Farming, Fishing, and Forestry Occupations.Agricultural Inspectors",1.18.2
+"profession.Farming, Fishing, and Forestry Occupations.Animal Breeders",1.18.3
+"profession.Farming, Fishing, and Forestry Occupations.Graders and Sorters, Agricultural Products",1.18.4
+"profession.Farming, Fishing, and Forestry Occupations.Agricultural Equipment Operators",1.18.5
+"profession.Farming, Fishing, and Forestry Occupations.Farmworkers and Laborers, Crop, Nursery, and Greenhouse",1.18.6
+"profession.Farming, Fishing, and Forestry Occupations.Farmworkers, Farm, Ranch, and Aquacultural Animals",1.18.7
+"profession.Farming, Fishing, and Forestry Occupations.Agricultural Workers, All Other",1.18.8
+"profession.Farming, Fishing, and Forestry Occupations.Fishing and Hunting Workers",1.18.9
+"profession.Farming, Fishing, and Forestry Occupations.Forest and Conservation Workers",1.18.10
+"profession.Farming, Fishing, and Forestry Occupations.Fallers",1.18.11
+"profession.Farming, Fishing, and Forestry Occupations.Logging Equipment Operators",1.18.12
+"profession.Farming, Fishing, and Forestry Occupations.Log Graders and Scalers",1.18.13
+"profession.Farming, Fishing, and Forestry Occupations.Logging Workers, All Other",1.18.14
+profession.Construction and Extraction Occupations,1.19
+profession.Construction and Extraction Occupations.FirstLine Supervisors of Construction Trades and Extraction Workers,1.19.1
+profession.Construction and Extraction Occupations.Boilermakers,1.19.2
+profession.Construction and Extraction Occupations.Brickmasons and Blockmasons,1.19.3
+profession.Construction and Extraction Occupations.Stonemasons,1.19.4
+profession.Construction and Extraction Occupations.Carpenters,1.19.5
+profession.Construction and Extraction Occupations.Carpet Installers,1.19.6
+"profession.Construction and Extraction Occupations.Floor Layers, Except Carpet, Wood, and Hard Tiles",1.19.7
+profession.Construction and Extraction Occupations.Floor Sanders and Finishers,1.19.8
+profession.Construction and Extraction Occupations.Tile and Stone Setters,1.19.9
+profession.Construction and Extraction Occupations.Cement Masons and Concrete Finishers,1.19.10
+profession.Construction and Extraction Occupations.Terrazzo Workers and Finishers,1.19.11
+profession.Construction and Extraction Occupations.Construction Laborers,1.19.12
+"profession.Construction and Extraction Occupations.Paving, Surfacing, and Tamping Equipment Operators",1.19.13
+profession.Construction and Extraction Occupations.Pile Driver Operators,1.19.14
+profession.Construction and Extraction Occupations.Operating Engineers and Other Construction Equipment Operators,1.19.15
+profession.Construction and Extraction Occupations.Drywall and Ceiling Tile Installers,1.19.16
+profession.Construction and Extraction Occupations.Tapers,1.19.17
+profession.Construction and Extraction Occupations.Electricians,1.19.18
+profession.Construction and Extraction Occupations.Glaziers,1.19.19
+"profession.Construction and Extraction Occupations.Insulation Workers, Floor, Ceiling, and Wall",1.19.20
+"profession.Construction and Extraction Occupations.Insulation Workers, Mechanical",1.19.21
+"profession.Construction and Extraction Occupations.Painters, Construction and Maintenance",1.19.22
+profession.Construction and Extraction Occupations.Paperhangers,1.19.23
+profession.Construction and Extraction Occupations.Pipelayers,1.19.24
+"profession.Construction and Extraction Occupations.Plumbers, Pipefitters, and Steamfitters",1.19.25
+profession.Construction and Extraction Occupations.Plasterers and Stucco Masons,1.19.26
+profession.Construction and Extraction Occupations.Reinforcing Iron and Rebar Workers,1.19.27
+profession.Construction and Extraction Occupations.Roofers,1.19.28
+profession.Construction and Extraction Occupations.Sheet Metal Workers,1.19.29
+profession.Construction and Extraction Occupations.Structural Iron and Steel Workers,1.19.30
+profession.Construction and Extraction Occupations.Solar Photovoltaic Installers,1.19.31
+"profession.Construction and Extraction Occupations.HelpersBrickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters",1.19.32
+profession.Construction and Extraction Occupations.HelpersCarpenters,1.19.33
+profession.Construction and Extraction Occupations.HelpersElectricians,1.19.34
+"profession.Construction and Extraction Occupations.HelpersPainters, Paperhangers, Plasterers, and Stucco Masons",1.19.35
+"profession.Construction and Extraction Occupations.HelpersPipelayers, Plumbers, Pipefitters, and Steamfitters",1.19.36
+profession.Construction and Extraction Occupations.HelpersRoofers,1.19.37
+"profession.Construction and Extraction Occupations.Helpers, Construction Trades, All Other",1.19.38
+profession.Construction and Extraction Occupations.Construction and Building Inspectors,1.19.39
+profession.Construction and Extraction Occupations.Elevator and Escalator Installers and Repairers,1.19.40
+profession.Construction and Extraction Occupations.Fence Erectors,1.19.41
+profession.Construction and Extraction Occupations.Hazardous Materials Removal Workers,1.19.42
+profession.Construction and Extraction Occupations.Highway Maintenance Workers,1.19.43
+profession.Construction and Extraction Occupations.RailTrack Laying and Maintenance Equipment Operators,1.19.44
+profession.Construction and Extraction Occupations.Septic Tank Servicers and Sewer Pipe Cleaners,1.19.45
+profession.Construction and Extraction Occupations.Segmental Pavers,1.19.46
+"profession.Construction and Extraction Occupations.Construction and Related Workers, All Other",1.19.47
+"profession.Construction and Extraction Occupations.Derrick Operators, Oil and Gas",1.19.48
+"profession.Construction and Extraction Occupations.Rotary Drill Operators, Oil and Gas",1.19.49
+"profession.Construction and Extraction Occupations.Service Unit Operators, Oil and Gas",1.19.50
+"profession.Construction and Extraction Occupations.Excavating and Loading Machine and Dragline Operators, Surface Mining",1.19.51
+"profession.Construction and Extraction Occupations.Earth Drillers, Except Oil and Gas",1.19.52
+"profession.Construction and Extraction Occupations.Explosives Workers, Ordnance Handling Experts, and Blasters",1.19.53
+profession.Construction and Extraction Occupations.Continuous Mining Machine Operators,1.19.54
+"profession.Construction and Extraction Occupations.Roof Bolters, Mining",1.19.55
+"profession.Construction and Extraction Occupations.Loading and Moving Machine Operators, Underground Mining",1.19.56
+"profession.Construction and Extraction Occupations.Underground Mining Machine Operators, All Other",1.19.57
+"profession.Construction and Extraction Occupations.Rock Splitters, Quarry",1.19.58
+"profession.Construction and Extraction Occupations.Roustabouts, Oil and Gas",1.19.59
+profession.Construction and Extraction Occupations.HelpersExtraction Workers,1.19.60
+"profession.Construction and Extraction Occupations.Extraction Workers, All Other",1.19.61
+"profession.Installation, Maintenance, and Repair Occupations",1.20
+"profession.Installation, Maintenance, and Repair Occupations.FirstLine Supervisors of Mechanics, Installers, and Repairers",1.20.1
+"profession.Installation, Maintenance, and Repair Occupations.Computer, Automated Teller, and Office Machine Repairers",1.20.2
+"profession.Installation, Maintenance, and Repair Occupations.Radio, Cellular, and Tower Equipment Installers and Repairers",1.20.3
+"profession.Installation, Maintenance, and Repair Occupations.Telecommunications Equipment Installers and Repairers, Except Line Installers",1.20.4
+"profession.Installation, Maintenance, and Repair Occupations.Avionics Technicians",1.20.5
+"profession.Installation, Maintenance, and Repair Occupations.Electric Motor, Power Tool, and Related Repairers",1.20.6
+"profession.Installation, Maintenance, and Repair Occupations.Electrical and Electronics Installers and Repairers, Transportation Equipment",1.20.7
+"profession.Installation, Maintenance, and Repair Occupations.Electrical and Electronics Repairers, Commercial and Industrial Equipment",1.20.8
+"profession.Installation, Maintenance, and Repair Occupations.Electrical and Electronics Repairers, Powerhouse, Substation, and Relay",1.20.9
+"profession.Installation, Maintenance, and Repair Occupations.Electronic Equipment Installers and Repairers, Motor Vehicles",1.20.10
+"profession.Installation, Maintenance, and Repair Occupations.Audiovisual Equipment Installers and Repairers",1.20.11
+"profession.Installation, Maintenance, and Repair Occupations.Security and Fire Alarm Systems Installers",1.20.12
+"profession.Installation, Maintenance, and Repair Occupations.Aircraft Mechanics and Service Technicians",1.20.13
+"profession.Installation, Maintenance, and Repair Occupations.Automotive Body and Related Repairers",1.20.14
+"profession.Installation, Maintenance, and Repair Occupations.Automotive Glass Installers and Repairers",1.20.15
+"profession.Installation, Maintenance, and Repair Occupations.Automotive Service Technicians and Mechanics",1.20.16
+"profession.Installation, Maintenance, and Repair Occupations.Bus and Truck Mechanics and Diesel Engine Specialists",1.20.17
+"profession.Installation, Maintenance, and Repair Occupations.Farm Equipment Mechanics and Service Technicians",1.20.18
+"profession.Installation, Maintenance, and Repair Occupations.Mobile Heavy Equipment Mechanics, Except Engines",1.20.19
+"profession.Installation, Maintenance, and Repair Occupations.Rail Car Repairers",1.20.20
+"profession.Installation, Maintenance, and Repair Occupations.Motorboat Mechanics and Service Technicians",1.20.21
+"profession.Installation, Maintenance, and Repair Occupations.Motorcycle Mechanics",1.20.22
+"profession.Installation, Maintenance, and Repair Occupations.Outdoor Power Equipment and Other Small Engine Mechanics",1.20.23
+"profession.Installation, Maintenance, and Repair Occupations.Bicycle Repairers",1.20.24
+"profession.Installation, Maintenance, and Repair Occupations.Recreational Vehicle Service Technicians",1.20.25
+"profession.Installation, Maintenance, and Repair Occupations.Tire Repairers and Changers",1.20.26
+"profession.Installation, Maintenance, and Repair Occupations.Mechanical Door Repairers",1.20.27
+"profession.Installation, Maintenance, and Repair Occupations.Control and Valve Installers and Repairers, Except Mechanical Door",1.20.28
+"profession.Installation, Maintenance, and Repair Occupations.Heating, Air Conditioning, and Refrigeration Mechanics and Installers",1.20.29
+"profession.Installation, Maintenance, and Repair Occupations.Home Appliance Repairers",1.20.30
+"profession.Installation, Maintenance, and Repair Occupations.Industrial Machinery Mechanics",1.20.31
+"profession.Installation, Maintenance, and Repair Occupations.Maintenance Workers, Machinery",1.20.32
+"profession.Installation, Maintenance, and Repair Occupations.Millwrights",1.20.33
+"profession.Installation, Maintenance, and Repair Occupations.Refractory Materials Repairers, Except Brickmasons",1.20.34
+"profession.Installation, Maintenance, and Repair Occupations.Electrical PowerLine Installers and Repairers",1.20.35
+"profession.Installation, Maintenance, and Repair Occupations.Telecommunications Line Installers and Repairers",1.20.36
+"profession.Installation, Maintenance, and Repair Occupations.Camera and Photographic Equipment Repairers",1.20.37
+"profession.Installation, Maintenance, and Repair Occupations.Medical Equipment Repairers",1.20.38
+"profession.Installation, Maintenance, and Repair Occupations.Musical Instrument Repairers and Tuners",1.20.39
+"profession.Installation, Maintenance, and Repair Occupations.Watch and Clock Repairers",1.20.40
+"profession.Installation, Maintenance, and Repair Occupations.Precision Instrument and Equipment Repairers, All Other",1.20.41
+"profession.Installation, Maintenance, and Repair Occupations.Maintenance and Repair Workers, General",1.20.42
+"profession.Installation, Maintenance, and Repair Occupations.Wind Turbine Service Technicians",1.20.43
+"profession.Installation, Maintenance, and Repair Occupations.Coin, Vending, and Amusement Machine Servicers and Repairers",1.20.44
+"profession.Installation, Maintenance, and Repair Occupations.Commercial Divers",1.20.45
+"profession.Installation, Maintenance, and Repair Occupations.Locksmiths and Safe Repairers",1.20.46
+"profession.Installation, Maintenance, and Repair Occupations.Manufactured Building and Mobile Home Installers",1.20.47
+"profession.Installation, Maintenance, and Repair Occupations.Riggers",1.20.48
+"profession.Installation, Maintenance, and Repair Occupations.Signal and Track Switch Repairers",1.20.49
+"profession.Installation, Maintenance, and Repair Occupations.HelpersInstallation, Maintenance, and Repair Workers",1.20.50
+"profession.Installation, Maintenance, and Repair Occupations.Installation, Maintenance, and Repair Workers, All Other",1.20.51
+profession.Production Occupations,1.21
+profession.Production Occupations.FirstLine Supervisors of Production and Operating Workers,1.21.1
+"profession.Production Occupations.Aircraft Structure, Surfaces, Rigging, and Systems Assemblers",1.21.2
+"profession.Production Occupations.Coil Winders, Tapers, and Finishers",1.21.3
+profession.Production Occupations.Electrical and Electronic Equipment Assemblers,1.21.4
+profession.Production Occupations.Electromechanical Equipment Assemblers,1.21.5
+profession.Production Occupations.Engine and Other Machine Assemblers,1.21.6
+profession.Production Occupations.Structural Metal Fabricators and Fitters,1.21.7
+profession.Production Occupations.Fiberglass Laminators and Fabricators,1.21.8
+profession.Production Occupations.Timing Device Assemblers and Adjusters,1.21.9
+profession.Production Occupations.Team Assemblers,1.21.10
+"profession.Production Occupations.Assemblers and Fabricators, All Other",1.21.11
+profession.Production Occupations.Bakers,1.21.12
+profession.Production Occupations.Butchers and Meat Cutters,1.21.13
+"profession.Production Occupations.Meat, Poultry, and Fish Cutters and Trimmers",1.21.14
+profession.Production Occupations.Slaughterers and Meat Packers,1.21.15
+"profession.Production Occupations.Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders",1.21.16
+profession.Production Occupations.Food Batchmakers,1.21.17
+profession.Production Occupations.Food Cooking Machine Operators and Tenders,1.21.18
+"profession.Production Occupations.Food Processing Workers, All Other",1.21.19
+"profession.Production Occupations.Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic",1.21.20
+"profession.Production Occupations.Forging Machine Setters, Operators, and Tenders, Metal and Plastic",1.21.21
+"profession.Production Occupations.Rolling Machine Setters, Operators, and Tenders, Metal and Plastic",1.21.22
+"profession.Production Occupations.Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic",1.21.23
+"profession.Production Occupations.Drilling and Boring Machine Tool Setters, Operators, and Tenders, Metal and Plastic",1.21.24
+"profession.Production Occupations.Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic",1.21.25
+"profession.Production Occupations.Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic",1.21.26
+"profession.Production Occupations.Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic",1.21.27
+profession.Production Occupations.Machinists,1.21.28
+profession.Production Occupations.MetalRefining Furnace Operators and Tenders,1.21.29
+"profession.Production Occupations.Pourers and Casters, Metal",1.21.30
+"profession.Production Occupations.Model Makers, Metal and Plastic",1.21.31
+"profession.Production Occupations.Patternmakers, Metal and Plastic",1.21.32
+profession.Production Occupations.Foundry Mold and Coremakers,1.21.33
+"profession.Production Occupations.Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic",1.21.34
+"profession.Production Occupations.Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic",1.21.35
+profession.Production Occupations.Tool and Die Makers,1.21.36
+"profession.Production Occupations.Welders, Cutters, Solderers, and Brazers",1.21.37
+"profession.Production Occupations.Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders",1.21.38
+"profession.Production Occupations.Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic",1.21.39
+"profession.Production Occupations.Layout Workers, Metal and Plastic",1.21.40
+"profession.Production Occupations.Plating Machine Setters, Operators, and Tenders, Metal and Plastic",1.21.41
+"profession.Production Occupations.Tool Grinders, Filers, and Sharpeners",1.21.42
+"profession.Production Occupations.Metal Workers and Plastic Workers, All Other",1.21.43
+profession.Production Occupations.Printing Workers,1.21.44
+profession.Production Occupations.Prepress Technicians and Workers,1.21.45
+profession.Production Occupations.Printing Press Operators,1.21.46
+profession.Production Occupations.Print Binding and Finishing Workers,1.21.47
+profession.Production Occupations.Laundry and DryCleaning Workers,1.21.48
+"profession.Production Occupations.Pressers, Textile, Garment, and Related Materials",1.21.49
+profession.Production Occupations.Sewing Machine Operators,1.21.50
+profession.Production Occupations.Shoe and Leather Workers and Repairers,1.21.51
+profession.Production Occupations.Shoe Machine Operators and Tenders,1.21.52
+"profession.Production Occupations.Sewers, Hand",1.21.53
+"profession.Production Occupations.Tailors, Dressmakers, and Custom Sewers",1.21.54
+profession.Production Occupations.Textile Bleaching and Dyeing Machine Operators and Tenders,1.21.55
+"profession.Production Occupations.Textile Cutting Machine Setters, Operators, and Tenders",1.21.56
+"profession.Production Occupations.Textile Knitting and Weaving Machine Setters, Operators, and Tenders",1.21.57
+"profession.Production Occupations.Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders",1.21.58
+"profession.Production Occupations.Extruding and Forming Machine Setters, Operators, and Tenders, Synthetic and Glass Fibers",1.21.59
+profession.Production Occupations.Fabric and Apparel Patternmakers,1.21.60
+profession.Production Occupations.Upholsterers,1.21.61
+"profession.Production Occupations.Textile, Apparel, and Furnishings Workers, All Other",1.21.62
+profession.Production Occupations.Cabinetmakers and Bench Carpenters,1.21.63
+profession.Production Occupations.Furniture Finishers,1.21.64
+"profession.Production Occupations.Model Makers, Wood",1.21.65
+"profession.Production Occupations.Patternmakers, Wood",1.21.66
+"profession.Production Occupations.Sawing Machine Setters, Operators, and Tenders, Wood",1.21.67
+"profession.Production Occupations.Woodworking Machine Setters, Operators, and Tenders, Except Sawing",1.21.68
+"profession.Production Occupations.Woodworkers, All Other",1.21.69
+profession.Production Occupations.Nuclear Power Reactor Operators,1.21.70
+profession.Production Occupations.Power Distributors and Dispatchers,1.21.71
+profession.Production Occupations.Power Plant Operators,1.21.72
+profession.Production Occupations.Stationary Engineers and Boiler Operators,1.21.73
+profession.Production Occupations.Water and Wastewater Treatment Plant and System Operators,1.21.74
+profession.Production Occupations.Chemical Plant and System Operators,1.21.75
+profession.Production Occupations.Gas Plant Operators,1.21.76
+"profession.Production Occupations.Petroleum Pump System Operators, Refinery Operators, and Gaugers",1.21.77
+"profession.Production Occupations.Plant and System Operators, All Other",1.21.78
+profession.Production Occupations.Chemical Equipment Operators and Tenders,1.21.79
+"profession.Production Occupations.Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders",1.21.80
+"profession.Production Occupations.Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders",1.21.81
+"profession.Production Occupations.Grinding and Polishing Workers, Hand",1.21.82
+"profession.Production Occupations.Mixing and Blending Machine Setters, Operators, and Tenders",1.21.83
+"profession.Production Occupations.Cutters and Trimmers, Hand",1.21.84
+"profession.Production Occupations.Cutting and Slicing Machine Setters, Operators, and Tenders",1.21.85
+"profession.Production Occupations.Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders",1.21.86
+"profession.Production Occupations.Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders",1.21.87
+"profession.Production Occupations.Inspectors, Testers, Sorters, Samplers, and Weighers",1.21.88
+profession.Production Occupations.Jewelers and Precious Stone and Metal Workers,1.21.89
+profession.Production Occupations.Dental Laboratory Technicians,1.21.90
+profession.Production Occupations.Medical Appliance Technicians,1.21.91
+profession.Production Occupations.Ophthalmic Laboratory Technicians,1.21.92
+profession.Production Occupations.Packaging and Filling Machine Operators and Tenders,1.21.93
+"profession.Production Occupations.Painting, Coating, and Decorating Workers",1.21.94
+"profession.Production Occupations.Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",1.21.95
+profession.Production Occupations.Semiconductor Processing Technicians,1.21.96
+profession.Production Occupations.Photographic Process Workers and Processing Machine Operators,1.21.97
+profession.Production Occupations.Computer Numerically Controlled Tool Operators,1.21.98
+profession.Production Occupations.Computer Numerically Controlled Tool Programmers,1.21.99
+profession.Production Occupations.Adhesive Bonding Machine Operators and Tenders,1.21.100
+"profession.Production Occupations.Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders",1.21.101
+profession.Production Occupations.Cooling and Freezing Equipment Operators and Tenders,1.21.102
+profession.Production Occupations.Etchers and Engravers,1.21.103
+"profession.Production Occupations.Molders, Shapers, and Casters, Except Metal and Plastic",1.21.104
+"profession.Production Occupations.Paper Goods Machine Setters, Operators, and Tenders",1.21.105
+profession.Production Occupations.Tire Builders,1.21.106
+profession.Production Occupations.HelpersProduction Workers,1.21.107
+"profession.Production Occupations.Production Workers, All Other",1.21.108
+profession.Transportation and Material Moving Occupations,1.22
+profession.Transportation and Material Moving Occupations.Aircraft Cargo Handling Supervisors,1.22.1
+"profession.Transportation and Material Moving Occupations.FirstLine Supervisors of Helpers, Laborers, and Material Movers, Hand",1.22.2
+profession.Transportation and Material Moving Occupations.FirstLine Supervisors of MaterialMoving Machine and Vehicle Operators,1.22.3
+profession.Transportation and Material Moving Occupations.FirstLine Supervisors of Passenger Attendants,1.22.4
+"profession.Transportation and Material Moving Occupations.FirstLine Supervisors of Transportation Workers, All Other",1.22.5
+"profession.Transportation and Material Moving Occupations.Airline Pilots, Copilots, and Flight Engineers",1.22.6
+profession.Transportation and Material Moving Occupations.Commercial Pilots,1.22.7
+profession.Transportation and Material Moving Occupations.Air Traffic Controllers,1.22.8
+profession.Transportation and Material Moving Occupations.Airfield Operations Specialists,1.22.9
+profession.Transportation and Material Moving Occupations.Flight Attendants,1.22.10
+"profession.Transportation and Material Moving Occupations.Ambulance Drivers and Attendants, Except Emergency Medical Technicians",1.22.11
+profession.Transportation and Material Moving Occupations.Driver/Sales Workers,1.22.12
+profession.Transportation and Material Moving Occupations.Heavy and TractorTrailer Truck Drivers,1.22.13
+profession.Transportation and Material Moving Occupations.Light Truck Drivers,1.22.14
+"profession.Transportation and Material Moving Occupations.Bus Drivers, School",1.22.15
+"profession.Transportation and Material Moving Occupations.Bus Drivers, Transit and Intercity",1.22.16
+profession.Transportation and Material Moving Occupations.Shuttle Drivers and Chauffeurs,1.22.17
+profession.Transportation and Material Moving Occupations.Taxi Drivers,1.22.18
+"profession.Transportation and Material Moving Occupations.Motor Vehicle Operators, All Other",1.22.19
+profession.Transportation and Material Moving Occupations.Locomotive Engineers,1.22.20
+"profession.Transportation and Material Moving Occupations.Rail Yard Engineers, Dinkey Operators, and Hostlers",1.22.21
+"profession.Transportation and Material Moving Occupations.Railroad Brake, Signal, and Switch Operators and Locomotive Firers",1.22.22
+profession.Transportation and Material Moving Occupations.Railroad Conductors and Yardmasters,1.22.23
+profession.Transportation and Material Moving Occupations.Subway and Streetcar Operators,1.22.24
+"profession.Transportation and Material Moving Occupations.Rail Transportation Workers, All Other",1.22.25
+profession.Transportation and Material Moving Occupations.Sailors and Marine Oilers,1.22.26
+"profession.Transportation and Material Moving Occupations.Captains, Mates, and Pilots of Water Vessels",1.22.27
+profession.Transportation and Material Moving Occupations.Motorboat Operators,1.22.28
+profession.Transportation and Material Moving Occupations.Ship Engineers,1.22.29
+profession.Transportation and Material Moving Occupations.Bridge and Lock Tenders,1.22.30
+profession.Transportation and Material Moving Occupations.Parking Attendants,1.22.31
+profession.Transportation and Material Moving Occupations.Automotive and Watercraft Service Attendants,1.22.32
+profession.Transportation and Material Moving Occupations.Aircraft Service Attendants,1.22.33
+profession.Transportation and Material Moving Occupations.Traffic Technicians,1.22.34
+profession.Transportation and Material Moving Occupations.Transportation Inspectors,1.22.35
+profession.Transportation and Material Moving Occupations.Passenger Attendants,1.22.36
+"profession.Transportation and Material Moving Occupations.Transportation Workers, All Other",1.22.37
+profession.Transportation and Material Moving Occupations.Conveyor Operators and Tenders,1.22.38
+profession.Transportation and Material Moving Occupations.Crane and Tower Operators,1.22.39
+profession.Transportation and Material Moving Occupations.Dredge Operators,1.22.40
+profession.Transportation and Material Moving Occupations.Hoist and Winch Operators,1.22.41
+profession.Transportation and Material Moving Occupations.Industrial Truck and Tractor Operators,1.22.42
+profession.Transportation and Material Moving Occupations.Cleaners of Vehicles and Equipment,1.22.43
+"profession.Transportation and Material Moving Occupations.Laborers and Freight, Stock, and Material Movers, Hand",1.22.44
+profession.Transportation and Material Moving Occupations.Machine Feeders and Offbearers,1.22.45
+"profession.Transportation and Material Moving Occupations.Packers and Packagers, Hand",1.22.46
+profession.Transportation and Material Moving Occupations.Stockers and Order Fillers,1.22.47
+profession.Transportation and Material Moving Occupations.Gas Compressor and Gas Pumping Station Operators,1.22.48
+"profession.Transportation and Material Moving Occupations.Pump Operators, Except Wellhead Pumpers",1.22.49
+profession.Transportation and Material Moving Occupations.Wellhead Pumpers,1.22.50
+profession.Transportation and Material Moving Occupations.Refuse and Recyclable Material Collectors,1.22.51
+"profession.Transportation and Material Moving Occupations.Tank Car, Truck, and Ship Loaders",1.22.52
+"profession.Transportation and Material Moving Occupations.Material Moving Workers, All Other",1.22.53
+profession.Military Specific Occupations,1.23
+profession.Military Specific Occupations.Air Crew Officers,1.23.1
+profession.Military Specific Occupations.Aircraft Launch and Recovery Officers,1.23.2
+profession.Military Specific Occupations.Armored Assault Vehicle Officers,1.23.3
+profession.Military Specific Occupations.Artillery and Missile Officers,1.23.4
+profession.Military Specific Occupations.Command and Control Center Officers,1.23.5
+profession.Military Specific Occupations.Infantry Officers,1.23.6
+profession.Military Specific Occupations.Special Forces Officers,1.23.7
+"profession.Military Specific Occupations.Military Officer Special and Tactical Operations Leaders, All Other",1.23.8
+profession.Military Specific Occupations.FirstLine Enlisted Military Supervisors,1.23.9
+profession.Military Specific Occupations.FirstLine Supervisors of Air Crew Members,1.23.10
+profession.Military Specific Occupations.FirstLine Supervisors of Weapons Specialists/Crew Members,1.23.11
+profession.Military Specific Occupations.FirstLine Supervisors of All Other Tactical Operations Specialists,1.23.12
+profession.Military Specific Occupations.Military Enlisted Tactical Operations and Air/Weapons Specialists and Crew Members,1.23.13
+profession.Military Specific Occupations.Air Crew Members,1.23.14
+profession.Military Specific Occupations.Aircraft Launch and Recovery Specialists,1.23.15
+profession.Military Specific Occupations.Armored Assault Vehicle Crew Members,1.23.16
+profession.Military Specific Occupations.Artillery and Missile Crew Members,1.23.17
+profession.Military Specific Occupations.Command and Control Center Specialists,1.23.18
+profession.Military Specific Occupations.Infantry,1.23.19
+profession.Military Specific Occupations.Special Forces,1.23.20
+"profession.Military Specific Occupations.Military Enlisted Tactical Operations and Air/Weapons Specialists and Crew Members, All Other",1.23.21
