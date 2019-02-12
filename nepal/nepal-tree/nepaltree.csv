@@ -1,0 +1,786 @@
+id,value
+Nepal,1
+Nepal.PN1,1.1
+Nepal.PN1.Bhojpur,1.2.1
+Nepal.PN1.Bhojpur.Bhojpur MCP,1.2.2.2
+Nepal.PN1.Bhojpur.Shadanada MCP,1.2.2.2
+Nepal.PN1.Bhojpur.Tyamke Maiyum RM,1.2.2.2
+Nepal.PN1.Bhojpur.Ram Prasad Rai RM,1.2.2.2
+Nepal.PN1.Bhojpur.Arun RM,1.2.2.2
+Nepal.PN1.Bhojpur.PauwaDungama RM,1.2.2.2
+Nepal.PN1.Bhojpur.Salpasilichho RM,1.2.2.2
+Nepal.PN1.Bhojpur.Aamchok RM,1.2.2.2
+Nepal.PN1.Bhojpur.HatuwaGadhi RM,1.2.2.2
+Nepal.PN1.Dhankuta,1.2.2
+Nepal.PN1.Dhankuta.Pakhribas MCP,1.2.3.3
+Nepal.PN1.Dhankuta.Dhankuta MCP,1.2.3.3
+Nepal.PN1.Dhankuta.Mahalaxmi MCP,1.2.3.3
+Nepal.PN1.Dhankuta.SanguriGadhi RM,1.2.3.3
+Nepal.PN1.Dhankuta.Khalsa Chhintaag RM,1.2.3.3
+Nepal.PN1.Dhankuta.Chhathat Jorpati RM,1.2.3.3
+Nepal.PN1.Dhankuta.Chaubise RM,1.2.3.3
+Nepal.PN1.Ilam,1.2.3
+Nepal.PN1.Ilam.Ilam MCP,1.2.4.4
+Nepal.PN1.Ilam.Deumai MCP,1.2.4.4
+Nepal.PN1.Ilam.Mai MCP,1.2.4.4
+Nepal.PN1.Ilam.Suryodaya MCP,1.2.4.4
+Nepal.PN1.Ilam.Phakaphokthum RM,1.2.4.4
+Nepal.PN1.Ilam.Chulachuli RM,1.2.4.4
+Nepal.PN1.Ilam.Mai Jogmai RM,1.2.4.4
+Nepal.PN1.Ilam.Mangsebung RM,1.2.4.4
+Nepal.PN1.Ilam.Rong RM,1.2.4.4
+Nepal.PN1.Ilam.Sandakpur RM,1.2.4.4
+Nepal.PN1.Jhapa,1.2.4
+Nepal.PN1.Jhapa.MechiNagar MCP,1.2.5.5
+Nepal.PN1.Jhapa.Damak MCP,1.2.5.5
+Nepal.PN1.Jhapa.Kankai MCP,1.2.5.5
+Nepal.PN1.Jhapa.Bhadrapur MCP,1.2.5.5
+Nepal.PN1.Jhapa.Arjundhara MCP,1.2.5.5
+Nepal.PN1.Jhapa.ShivaSataxi MCP,1.2.5.5
+Nepal.PN1.Jhapa.Gauradaha MCP,1.2.5.5
+Nepal.PN1.Jhapa.Birtamod MCP,1.2.5.5
+Nepal.PN1.Jhapa.Kamal RM,1.2.5.5
+Nepal.PN1.Jhapa.Gaurigunj RM,1.2.5.5
+Nepal.PN1.Jhapa.Barhadashi RM,1.2.5.5
+Nepal.PN1.Jhapa.Jhapa RM,1.2.5.5
+Nepal.PN1.Jhapa.BuddaShanti RM,1.2.5.5
+Nepal.PN1.Jhapa.Haldibari RM,1.2.5.5
+Nepal.PN1.Jhapa.Kanchankawal RM,1.2.5.5
+Nepal.PN1.Khotang,1.2.5
+Nepal.PN1.Khotang.Halesi Tuwachung MCP,1.2.6.6
+Nepal.PN1.Khotang.Rupakot Majhuwagadhi MCP,1.2.6.6
+Nepal.PN1.Khotang.Aiselukharka RM,1.2.6.6
+Nepal.PN1.Khotang.Lamidanda RM,1.2.6.6
+Nepal.PN1.Khotang.Jantedhunga RM,1.2.6.6
+Nepal.PN1.Morang,1.2.6
+Nepal.PN1.Morang.Biratnagar SMCP,1.2.7.7
+Nepal.PN1.Morang.Belbari MCP,1.2.7.7
+Nepal.PN1.Morang.Letang MCP,1.2.7.7
+Nepal.PN1.Morang.Pathari-Sanishchare MCP,1.2.7.7
+Nepal.PN1.Morang.Rangeli MCP,1.2.7.7
+Nepal.PN1.Morang.Ratuwamai MCP,1.2.7.7
+Nepal.PN1.Morang.Sunbarshi MCP,1.2.7.7
+Nepal.PN1.Morang.Urlabari MCP,1.2.7.7
+Nepal.PN1.Morang.SundarHaraincha MCP,1.2.7.7
+Nepal.PN1.Morang.BudhiGanga RM,1.2.7.7
+Nepal.PN1.Morang.Dhanpalthan RM,1.2.7.7
+Nepal.PN1.Morang.Gramthan RM,1.2.7.7
+Nepal.PN1.Morang.Jahada RM,1.2.7.7
+Nepal.PN1.Morang.Kanepokhari RM,1.2.7.7
+Nepal.PN1.Morang.Katahari RM,1.2.7.7
+Nepal.PN1.Morang.Kerabari RM,1.2.7.7
+Nepal.PN1.Morang.Miklajung RM,1.2.7.7
+Nepal.PN1.Okhaldhunga,1.2.7
+Nepal.PN1.Okhaldhunga.SiddiCharan MCP,1.2.8.8
+Nepal.PN1.Okhaldhunga.Khiji Demba RM,1.2.8.8
+Nepal.PN1.Okhaldhunga.Champadevi RM,1.2.8.8
+Nepal.PN1.Okhaldhunga.ChishankhuGadhi RM,1.2.8.8
+Nepal.PN1.Okhaldhunga.ManeBhanjyang RM,1.2.8.8
+Nepal.PN1.Okhaldhunga.Molung RM,1.2.8.8
+Nepal.PN1.Okhaldhunga.Likhu RM,1.2.8.8
+Nepal.PN1.Okhaldhunga.Sunkoshi RM,1.2.8.8
+Nepal.PN1.Panchthar,1.2.8
+Nepal.PN1.Panchthar.Phidim MCP,1.2.9.9
+Nepal.PN1.Panchthar.Phalelung RM,1.2.9.9
+Nepal.PN1.Panchthar.Palgunanda RM,1.2.9.9
+Nepal.PN1.Panchthar.Hilihang RM,1.2.9.9
+Nepal.PN1.Panchthar.Kummayak RM,1.2.9.9
+Nepal.PN1.Panchthar.Miklajung RM,1.2.9.9
+Nepal.PN1.Panchthar.Tumbewa RM,1.2.9.9
+Nepal.PN1.Panchthar.Yangbarak,1.2.9.9
+Nepal.PN1.Sankhauasabha,1.2.9
+Nepal.PN1.Sankhauasabha.Chainpur MCP,1.2.10.10
+Nepal.PN1.Sankhauasabha.DharmaDevi MCP,1.2.10.10
+Nepal.PN1.Sankhauasabha.Khadbari MCP,1.2.10.10
+Nepal.PN1.Sankhauasabha.Madi MCP,1.2.10.10
+Nepal.PN1.Sankhauasabha.PanchKhapan MCP,1.2.10.10
+Nepal.PN1.Sankhauasabha.Bhot Khola RM,1.2.10.10
+Nepal.PN1.Sankhauasabha.Chichila RM,1.2.10.10
+Nepal.PN1.Sankhauasabha.Makalu RM,1.2.10.10
+Nepal.PN1.Sankhauasabha.Sabhapokhari RM,1.2.10.10
+Nepal.PN1.Sankhauasabha.Silingchong RM,1.2.10.10
+Nepal.PN1.Solukhumbu,1.2.10
+Nepal.PN1.Solukhumbu.SoluDudhakund MCP,1.2.11.11
+Nepal.PN1.Solukhumbu.Dudhakoshi RM,1.2.11.11
+Nepal.PN1.Solukhumbu.Khumbu PasangLhamu RM,1.2.11.11
+Nepal.PN1.Solukhumbu.Dudhakaushika RM,1.2.11.11
+Nepal.PN1.Solukhumbu.Necha Salyan RM,1.2.11.11
+Nepal.PN1.Solukhumbu.Maha Kulung RM,1.2.11.11
+Nepal.PN1.Solukhumbu.Likhu Pike RM,1.2.11.11
+Nepal.PN1.Solukhumbu.Sotang RM,1.2.11.11
+Nepal.PN1.Sunsari,1.2.11
+Nepal.PN1.Sunsari.Itahari SMCP,1.2.12.12
+Nepal.PN1.Sunsari.Dharan SMCP,1.2.12.12
+Nepal.PN1.Sunsari.Inaruwa MCP,1.2.12.12
+Nepal.PN1.Sunsari.Duhabi MCP,1.2.12.12
+Nepal.PN1.Sunsari.Ramdhuni MCP,1.2.12.12
+Nepal.PN1.Sunsari.Baraha MCP,1.2.12.12
+Nepal.PN1.Sunsari.Dewangunj RM,1.2.12.12
+Nepal.PN1.Sunsari.Koshi RM,1.2.12.12
+Nepal.PN1.Sunsari.Gadhi RM,1.2.12.12
+Nepal.PN1.Sunsari.Barju RM,1.2.12.12
+Nepal.PN1.Sunsari.Bhokraha RM,1.2.12.12
+Nepal.PN1.Sunsari.Harinagara RM,1.2.12.12
+Nepal.PN1.Taplejung,1.2.12
+Nepal.PN1.Taplejung.Phunling MCP,1.2.13.13
+Nepal.PN1.Taplejung.Aatharai Triveni RM,1.2.13.13
+Nepal.PN1.Taplejung.Sidingawa RM,1.2.13.13
+Nepal.PN1.Taplejung.Phakatanglung RM,1.2.13.13
+Nepal.PN1.Taplejung.Mikwa Khola RM,1.2.13.13
+Nepal.PN1.Taplejung.Meringden RM,1.2.13.13
+Nepal.PN1.Taplejung.Maiwa Khola RM,1.2.13.13
+Nepal.PN1.Taplejung.Yangbarak RM,1.2.13.13
+Nepal.PN1.Taplejung.Sirijunga RM,1.2.13.13
+Nepal.PN1.Terhathum,1.2.13
+Nepal.PN1.Terhathum.Myanglung MCP,1.2.14.14
+Nepal.PN1.Terhathum.Laligurans MCP,1.2.14.14
+Nepal.PN1.Terhathum.Aatharai RM,1.2.14.14
+Nepal.PN1.Terhathum.Chaathar RM,1.2.14.14
+Nepal.PN1.Terhathum.Phedap RM,1.2.14.14
+Nepal.PN1.Terhathum.Menchayayem RM,1.2.14.14
+Nepal.PN1.Udayapur,1.2.14
+Nepal.PN1.Udayapur.Katari MCP,1.2.15.15
+Nepal.PN1.Udayapur.ChaudandiGadhi MCP,1.2.15.15
+Nepal.PN1.Udayapur.Triyuga MCP,1.2.15.15
+Nepal.PN1.Udayapur.Belaka MCP,1.2.15.15
+Nepal.PN1.Udayapur.Udayapur Gadhi RM,1.2.15.15
+Nepal.PN1.Udayapur.Tapli RM,1.2.15.15
+Nepal.PN1.Udayapur.Rautamai RM,1.2.15.15
+Nepal.PN1.Udayapur.Sunkoshi RM,1.2.15.15
+Nepal.PN2,1.2
+Nepal.PN2.Saptari,1.3.15
+Nepal.PN2.Saptari.Rajbiraj MCP,1.3.16.16
+Nepal.PN2.Saptari.Kanchanrup MCP,1.3.16.16
+Nepal.PN2.Saptari.Dakneshwori MCP,1.3.16.16
+Nepal.PN2.Saptari.BodeBarsain MCP,1.3.16.16
+Nepal.PN2.Saptari.Khadak MCP,1.3.16.16
+Nepal.PN2.Saptari.Shambhunath MCP,1.3.16.16
+Nepal.PN2.Saptari.Surunga MCP,1.3.16.16
+Nepal.PN2.Saptari.HanumanNagar Kankalini MCP,1.3.16.16
+Nepal.PN2.Saptari.Krishna Sawaran RM,1.3.16.16
+Nepal.PN2.Saptari.Chhinnamasta RM,1.3.16.16
+Nepal.PN2.Saptari.Mahadeva RM,1.3.16.16
+Nepal.PN2.Saptari.Saptkoshi RM,1.3.16.16
+Nepal.PN2.Saptari.Tirhut RM,1.3.16.16
+Nepal.PN2.Saptari.Tilathi Koiladi RM,1.3.16.16
+Nepal.PN2.Saptari.Rupani RM,1.3.16.16
+Nepal.PN2.Saptari.Belhi Chapani RM,1.3.16.16
+Nepal.PN2.Saptari.Bishnupura RM,1.3.16.16
+Nepal.PN2.Parsa,1.3.16
+Nepal.PN2.Parsa.Birgunu S_MCP,1.3.17.17
+Nepal.PN2.Parsa.Pokhariya MCP,1.3.17.17
+Nepal.PN2.Parsa.Subarnapur RM,1.3.17.17
+Nepal.PN2.Parsa.Jagarnathapur RM,1.3.17.17
+Nepal.PN2.Parsa.Dhobini RM,1.3.17.17
+Nepal.PN2.Parsa.Chhipahar Mai RM,1.3.17.17
+Nepal.PN2.Parsa.Pakaha Mainpur RM,1.3.17.17
+Nepal.PN2.Parsa.Bindabasini RM,1.3.17.17
+Nepal.PN2.Parsa.Bahudar Mai RM,1.3.17.17
+Nepal.PN2.Parsa.Belawa RM,1.3.17.17
+Nepal.PN2.Parsa.Parsa Gadhi RM,1.3.17.17
+Nepal.PN2.Parsa.Sakhuwa Prasouni RM,1.3.17.17
+Nepal.PN2.Parsa.Paterwa Sugauli RM,1.3.17.17
+Nepal.PN2.Bara,1.3.17
+Nepal.PN2.Bara.Kalaiya S-MCP,1.3.18.18
+Nepal.PN2.Bara.Jitpur Simara S-MCP,1.3.18.18
+Nepal.PN2.Bara.Kolhabi MCP,1.3.18.18
+Nepal.PN2.Bara.Nijgadh MCP,1.3.18.18
+Nepal.PN2.Bara.Maha Gahdimai MCP,1.3.18.18
+Nepal.PN2.Bara.Simraun Gadh MCP,1.3.18.18
+Nepal.PN2.Bara.Adarsha Kotwal RM,1.3.18.18
+Nepal.PN2.Bara.Karaiya Mai RM,1.3.18.18
+Nepal.PN2.Bara.Devtaal RM,1.3.18.18
+Nepal.PN2.Bara.PachaRouta RM,1.3.18.18
+Nepal.PN2.Bara.Parawanipur RM,1.3.18.18
+Nepal.PN2.Bara.Prasouni RM,1.3.18.18
+Nepal.PN2.Bara.Pheta RM,1.3.18.18
+Nepal.PN2.Bara.Bara Gadhi,1.3.18.18
+Nepal.PN2.Bara.Subarna RM,1.3.18.18
+Nepal.PN2.Siraha,1.3.18
+Nepal.PN2.Siraha.Lahan MCP,1.3.19.19
+Nepal.PN2.Siraha.DhangadhiMai MCP,1.3.19.19
+Nepal.PN2.Siraha.Siraha MCP,1.3.19.19
+Nepal.PN2.Siraha.GolBazaar MCP,1.3.19.19
+Nepal.PN2.Siraha.Mirchaiya MCP,1.3.19.19
+Nepal.PN2.Siraha.Kalyanpur MCP,1.3.19.19
+Nepal.PN2.Siraha.Bhagawanpur RM,1.3.19.19
+Nepal.PN2.Siraha.Aaurahi RM,1.3.19.19
+Nepal.PN2.Siraha.Bishnupur RM,1.3.19.19
+Nepal.PN2.Siraha.Sukhipur RM,1.3.19.19
+Nepal.PN2.Siraha.Karjanha RM,1.3.19.19
+Nepal.PN2.Siraha.Bariyarpatti RM,1.3.19.19
+Nepal.PN2.Siraha.Laxmipur Patari RM,1.3.19.19
+Nepal.PN2.Siraha.Naraha RM,1.3.19.19
+Nepal.PN2.Siraha.Sakhuwanankarkatti RM,1.3.19.19
+Nepal.PN2.Siraha.Arnama RM,1.3.19.19
+Nepal.PN2.Siraha.Nawarajpur RM,1.3.19.19
+Nepal.PN2.Dhanusha,1.3.19
+Nepal.PN2.Dhanusha.Janakpur SMCP,1.3.20.20
+Nepal.PN2.Dhanusha.Chhireshwarnath MCP,1.3.20.20
+Nepal.PN2.Dhanusha.Ganeshman Charnath MCP,1.3.20.20
+Nepal.PN2.Dhanusha.Dhanusadham MCP,1.3.20.20
+Nepal.PN2.Dhanusha.Nagaraen Municipality,1.3.20.20
+Nepal.PN2.Dhanusha.Bideh MCP,1.3.20.20
+Nepal.PN2.Dhanusha.Mithila MCP,1.3.20.20
+Nepal.PN2.Dhanusha.Shahid Nagar MCP,1.3.20.20
+Nepal.PN2.Dhanusha.Sabaila MCP,1.3.20.20
+Nepal.PN2.Dhanusha.Kamala Siddidatri RM,1.3.20.20
+Nepal.PN2.Dhanusha.Janak Nandini RM,1.3.20.20
+Nepal.PN2.Dhanusha.Bateshwor RM,1.3.20.20
+Nepal.PN2.Dhanusha.Mithila Bihari RM,1.3.20.20
+Nepal.PN2.Dhanusha.Mukhiyapatti Musaharmiya RM,1.3.20.20
+Nepal.PN2.Dhanusha.Laxminiya RM,1.3.20.20
+Nepal.PN2.Dhanusha.Hanspur RM,1.3.20.20
+Nepal.PN2.Dhanusha.Aaurahi RM,1.3.20.20
+Nepal.PN2.Rautahat,1.3.20
+Nepal.PN2.Rautahat.Chandrapur MCP,1.3.21.21
+Nepal.PN2.Rautahat.Garuda MCP,1.3.21.21
+Nepal.PN2.Rautahat.Gaur MCP,1.3.21.21
+Nepal.PN2.Rautahat.BoudhiMai RM,1.3.21.21
+Nepal.PN2.Rautahat.Brindaban RM,1.3.21.21
+Nepal.PN2.Rautahat.Devahi Gonahi RM,1.3.21.21
+Nepal.PN2.Rautahat.Durga Bhagawati RM,1.3.21.21
+Nepal.PN2.Rautahat.GadhiMai RM,1.3.21.21
+Nepal.PN2.Rautahat.Gujara RM,1.3.21.21
+Nepal.PN2.Rautahat.Katahariya RM,1.3.21.21
+Nepal.PN2.Rautahat.Madhav Narayan RM,1.3.21.21
+Nepal.PN2.Rautahat.Moulapur RM,1.3.21.21
+Nepal.PN2.Rautahat.Phatuwa Bijayapur RM,1.3.21.21
+Nepal.PN2.Rautahat.Ishnath RM,1.3.21.21
+Nepal.PN2.Rautahat.Paroha RM,1.3.21.21
+Nepal.PN2.Rautahat.Rajpur RM,1.3.21.21
+Nepal.PN2.Mahottari,1.3.21
+Nepal.PN2.Mahottari.Jaleshwor MCP,1.3.22.22
+Nepal.PN2.Mahottari.Bardibas MCP,1.3.22.22
+Nepal.PN2.Mahottari.Gaushala MCP,1.3.22.22
+Nepal.PN2.Mahottari.Ekadara RM,1.3.22.22
+Nepal.PN2.Mahottari.Sonama RM,1.3.22.22
+Nepal.PN2.Mahottari.Samsi RM,1.3.22.22
+Nepal.PN2.Mahottari.Loharpatti RM,1.3.22.22
+Nepal.PN2.Mahottari.RamGopalpur RM,1.3.22.22
+Nepal.PN2.Mahottari.Mahottari RM,1.3.22.22
+Nepal.PN2.Mahottari.Manara RM,1.3.22.22
+Nepal.PN2.Mahottari.Matihani RM,1.3.22.22
+Nepal.PN2.Mahottari.Bhangara RM,1.3.22.22
+Nepal.PN2.Mahottari.Balawa RM,1.3.22.22
+Nepal.PN2.Mahottari.Pipara RM,1.3.22.22
+Nepal.PN2.Mahottari.Aaurahi RM,1.3.22.22
+Nepal.PN3,1.3
+Nepal.PN3.Bhaktapur,1.4.22
+Nepal.PN3.Bhaktapur.Changunarayan MCP,1.4.23.23
+Nepal.PN3.Bhaktapur.Bhaktapur MCP,1.4.23.23
+Nepal.PN3.Bhaktapur.Madhyapur MCP,1.4.23.23
+Nepal.PN3.Bhaktapur.Surya Binayak MCP,1.4.23.23
+Nepal.PN3.Chitwan,1.4.23
+Nepal.PN3.Chitwan.Bharatpur MCP,1.4.24.24
+Nepal.PN3.Chitwan.Kalika MCP,1.4.24.24
+Nepal.PN3.Chitwan.Khairhani MCP,1.4.24.24
+Nepal.PN3.Chitwan.Madi MCP,1.4.24.24
+Nepal.PN3.Chitwan.Ratna Nagar MCP,1.4.24.24
+Nepal.PN3.Chitwan.Ichchhakamana RM,1.4.24.24
+Nepal.PN3.Dhading,1.4.24
+Nepal.PN3.Dhading.Dhunibesi MCP,1.4.25.25
+Nepal.PN3.Dhading.Nilkantha MCP,1.4.25.25
+Nepal.PN3.Dhading.Khaniyabas RM,1.4.25.25
+Nepal.PN3.Dhading.Gajuri RM,1.4.25.25
+Nepal.PN3.Dhading.Galchhi RM,1.4.25.25
+Nepal.PN3.Dhading.Ganga Jamuna RM,1.4.25.25
+Nepal.PN3.Dhading.Jwalamukhi RM,1.4.25.25
+Nepal.PN3.Dhading.Thakre RM,1.4.25.25
+Nepal.PN3.Dhading.Netrawati RM,1.4.25.25
+Nepal.PN3.Dhading.Benighat Rorang RM,1.4.25.25
+Nepal.PN3.Dhading.Rubi Valley RM,1.4.25.25
+Nepal.PN3.Dhading.Sidda Lekh RM,1.4.25.25
+Nepal.PN3.Dhading.Tripur Sundari RM,1.4.25.25
+Nepal.PN3.Dolakha,1.4.25
+Nepal.PN3.Dolakha.Jiri MCP,1.4.26.26
+Nepal.PN3.Dolakha.Bhimeshwor MCP,1.4.26.26
+Nepal.PN3.Dolakha.Kalinchok RM,1.4.26.26
+Nepal.PN3.Dolakha.Gauri Shankar RM,1.4.26.26
+Nepal.PN3.Dolakha.Tamakoshi RM,1.4.26.26
+Nepal.PN3.Dolakha.Melung RM,1.4.26.26
+Nepal.PN3.Dolakha.Bigu RM,1.4.26.26
+Nepal.PN3.Dolakha.Baiteshwor RM,1.4.26.26
+Nepal.PN3.Dolakha.Shailung RM,1.4.26.26
+Nepal.PN3.Kathmandu,1.4.26
+Nepal.PN3.Kathmandu.Kathmandu MCP,1.4.27.27
+Nepal.PN3.Kathmandu.Kageswori-Manohara MCP,1.4.27.27
+Nepal.PN3.Kathmandu.Kirtipur MCP,1.4.27.27
+Nepal.PN3.Kathmandu.Gokarneshwor MCP,1.4.27.27
+Nepal.PN3.Kathmandu.Chandragiri MCP,1.4.27.27
+Nepal.PN3.Kathmandu.Tokha MCP,1.4.27.27
+Nepal.PN3.Kathmandu.Tarkeshwor MCP,1.4.27.27
+Nepal.PN3.Kathmandu.Daxinkali MCP,1.4.27.27
+Nepal.PN3.Kathmandu.Nagarjun MCP,1.4.27.27
+Nepal.PN3.Kathmandu.Budhanialkantha MCP,1.4.27.27
+Nepal.PN3.Kathmandu.Sankharapur MCP,1.4.27.27
+Nepal.PN3.Kavrepalanchok,1.4.27
+Nepal.PN3.Kavrepalanchok.Dhulikhel MCP,1.4.28.28
+Nepal.PN3.Kavrepalanchok.Banepa MCP,1.4.28.28
+Nepal.PN3.Kavrepalanchok.Panauti MCP,1.4.28.28
+Nepal.PN3.Kavrepalanchok.Panchkhal MCP,1.4.28.28
+Nepal.PN3.Kavrepalanchok.Namobuddha MCP,1.4.28.28
+Nepal.PN3.Kavrepalanchok.Mandan Deupur MCP,1.4.28.28
+Nepal.PN3.Kavrepalanchok.Khanikhola RM,1.4.28.28
+Nepal.PN3.Kavrepalanchok.Chaunri Deurali RM,1.4.28.28
+Nepal.PN3.Kavrepalanchok.Temal RM,1.4.28.28
+Nepal.PN3.Kavrepalanchok.Bethanchok RM,1.4.28.28
+Nepal.PN3.Kavrepalanchok.Bhumlu RM,1.4.28.28
+Nepal.PN3.Kavrepalanchok.Mahabharat RM,1.4.28.28
+Nepal.PN3.Kavrepalanchok.Roshi RM,1.4.28.28
+Nepal.PN3.Lalitpur,1.4.28
+Nepal.PN3.Lalitpur.Lalitpur MCP,1.4.29.29
+Nepal.PN3.Lalitpur.Godawari MCP,1.4.29.29
+Nepal.PN3.Lalitpur.MahaLaxmi MCP,1.4.29.29
+Nepal.PN3.Lalitpur.Konjyosom RM,1.4.29.29
+Nepal.PN3.Lalitpur.Bagmati RM,1.4.29.29
+Nepal.PN3.Lalitpur.Mahankal RM,1.4.29.29
+Nepal.PN3.Makwanpur,1.4.29
+Nepal.PN3.Makwanpur.Hetaunda S-MCP,1.4.30.30
+Nepal.PN3.Makwanpur.Thaha MCP,1.4.30.30
+Nepal.PN3.Makwanpur.Indra Sarobar RM,1.4.30.30
+Nepal.PN3.Makwanpur.Kailash RM,1.4.30.30
+Nepal.PN3.Makwanpur.Bakaiya RM,1.4.30.30
+Nepal.PN3.Makwanpur.Bagmati RM,1.4.30.30
+Nepal.PN3.Makwanpur.Bhimphedi RM,1.4.30.30
+Nepal.PN3.Makwanpur.Makawanpur Gadhi RM,1.4.30.30
+Nepal.PN3.Makwanpur.Manahari RM,1.4.30.30
+Nepal.PN3.Makwanpur.Raksirang RM,1.4.30.30
+Nepal.PN3.Nukuwot,1.4.30
+Nepal.PN3.Nukuwot.Bidur MCP,1.4.31.31
+Nepal.PN3.Nukuwot.Belkot Gadhi MCP,1.4.31.31
+Nepal.PN3.Nukuwot.Kakani RM,1.4.31.31
+Nepal.PN3.Nukuwot.Kispang RM,1.4.31.31
+Nepal.PN3.Nukuwot.Tadi RM,1.4.31.31
+Nepal.PN3.Nukuwot.Tarkeshwor RM,1.4.31.31
+Nepal.PN3.Nukuwot.Dupcheshwor RM,1.4.31.31
+Nepal.PN3.Nukuwot.PanchaKanya RM,1.4.31.31
+Nepal.PN3.Nukuwot.Likhu RM,1.4.31.31
+Nepal.PN3.Nukuwot.Meghang RM,1.4.31.31
+Nepal.PN3.Nukuwot.Shivpuri RM,1.4.31.31
+Nepal.PN3.Nukuwot.Surya Gadhi RM,1.4.31.31
+Nepal.PN3.Ramechaap,1.4.31
+Nepal.PN3.Ramechaap.Manthali MCP,1.4.32.32
+Nepal.PN3.Ramechaap.Ramechhap MCP,1.4.32.32
+Nepal.PN3.Ramechaap.Umakunda RM,1.4.32.32
+Nepal.PN3.Ramechaap.KhandaDevi RM,1.4.32.32
+Nepal.PN3.Ramechaap.Gokul Ganga RM,1.4.32.32
+Nepal.PN3.Ramechaap.Doramba RM,1.4.32.32
+Nepal.PN3.Ramechaap.Likhu RM,1.4.32.32
+Nepal.PN3.Ramechaap.Sunapati RM,1.4.32.32
+Nepal.PN3.Rasuwa,1.4.32
+Nepal.PN3.Rasuwa.Uttar Gaya RM,1.4.33.33
+Nepal.PN3.Rasuwa.Kalika RM,1.4.33.33
+Nepal.PN3.Rasuwa.GosaiKunda RM,1.4.33.33
+Nepal.PN3.Rasuwa.NauKunda RM,1.4.33.33
+Nepal.PN3.Rasuwa.ParbatiKunda RM,1.4.33.33
+Nepal.PN3.Sindhuli,1.4.33
+Nepal.PN3.Sindhuli.Kamalamai MCP,1.4.34.34
+Nepal.PN3.Sindhuli.Dudhauli MCP,1.4.34.34
+Nepal.PN3.Sindhuli.Golanjor RM,1.4.34.34
+Nepal.PN3.Sindhuli.Ghyanglekh RM,1.4.34.34
+Nepal.PN3.Sindhuli.Teen Patan RM,1.4.34.34
+Nepal.PN3.Sindhuli.Phikkal RM,1.4.34.34
+Nepal.PN3.Sindhuli.Marin RM,1.4.34.34
+Nepal.PN3.Sindhuli.Sunkoshi RM,1.4.34.34
+Nepal.PN3.Sindhuli.Hariharpur Gadhi RM,1.4.34.34
+Nepal.PN3.Sindupalchok,1.4.34
+Nepal.PN3.Sindupalchok.Chautara Sangachokgadhi MCP,1.4.35.35
+Nepal.PN3.Sindupalchok.Barhabise MCP,1.4.35.35
+Nepal.PN3.Sindupalchok.Melamchi MCP,1.4.35.35
+Nepal.PN3.Sindupalchok.Indrawati RM,1.4.35.35
+Nepal.PN3.Sindupalchok.Jugal RM,1.4.35.35
+Nepal.PN3.Sindupalchok.PanchaPokhari RM,1.4.35.35
+Nepal.PN3.Sindupalchok.Balephi RM,1.4.35.35
+Nepal.PN3.Sindupalchok.Bhotekoshi RM,1.4.35.35
+Nepal.PN3.Sindupalchok.Lishankhu Pakhar RM,1.4.35.35
+Nepal.PN3.Sindupalchok.Sunkoshi RM,1.4.35.35
+Nepal.PN3.Sindupalchok.Helambu RM,1.4.35.35
+Nepal.PN3.Sindupalchok.TripuraSundari RM,1.4.35.35
+Nepal.PN4,1.4
+Nepal.PN4.Baglung,1.5.35
+Nepal.PN4.Baglung.Baglung MCP,1.5.36.36
+Nepal.PN4.Baglung.Galkot MCP,1.5.36.36
+Nepal.PN4.Baglung.Jaimini MCP,1.5.36.36
+Nepal.PN4.Baglung.Dhorpatan MCP,1.5.36.36
+Nepal.PN4.Baglung.Bareng RM,1.5.36.36
+Nepal.PN4.Baglung.Kathe Khola,1.5.36.36
+Nepal.PN4.Baglung.Taman Khola,1.5.36.36
+Nepal.PN4.Baglung.Tara Khola,1.5.36.36
+Nepal.PN4.Baglung.Nisi Khola,1.5.36.36
+Nepal.PN4.Baglung.Badi Gad,1.5.36.36
+Nepal.PN4.Gorkha,1.5.36
+Nepal.PN4.Gorkha.Gorkha MCP,1.5.37.37
+Nepal.PN4.Gorkha.Palungtar MCP,1.5.37.37
+Nepal.PN4.Gorkha.Sulikot RM,1.5.37.37
+Nepal.PN4.Gorkha.Siranchok RM,1.5.37.37
+Nepal.PN4.Gorkha.Ajirkot RM,1.5.37.37
+Nepal.PN4.Gorkha.Aarughat RM,1.5.37.37
+Nepal.PN4.Gorkha.Gandaki RM,1.5.37.37
+Nepal.PN4.Gorkha.Chumanubri RM,1.5.37.37
+Nepal.PN4.Gorkha.Dharche RM,1.5.37.37
+Nepal.PN4.Gorkha.Bhimsen RM,1.5.37.37
+Nepal.PN4.Gorkha.Shahid Lakhan RM,1.5.37.37
+Nepal.PN4.Kaski,1.5.37
+Nepal.PN4.Kaski.Pokhara Lekhnath MCP,1.5.38.38
+Nepal.PN4.Kaski.Annapurna RM,1.5.38.38
+Nepal.PN4.Kaski.Machhapuchhre RM,1.5.38.38
+Nepal.PN4.Kaski.Madi RM,1.5.38.38
+Nepal.PN4.Kaski.Rupa RM,1.5.38.38
+Nepal.PN4.Lamjung,1.5.38
+Nepal.PN4.Lamjung.Besishahar MCP,1.5.39.39
+Nepal.PN4.Lamjung.Madhya Nepal MCP,1.5.39.39
+Nepal.PN4.Lamjung.Rainas MCP,1.5.39.39
+Nepal.PN4.Lamjung.Sundarbazar MCP,1.5.39.39
+Nepal.PN4.Lamjung.Kabahola Sothar RM,1.5.39.39
+Nepal.PN4.Lamjung.Dhudh Pokhari RM,1.5.39.39
+Nepal.PN4.Lamjung.Dordi RM,1.5.39.39
+Nepal.PN4.Lamjung.Marsyangdi RM,1.5.39.39
+Nepal.PN4.Manang,1.5.39
+Nepal.PN4.Manang.Chame RM,1.5.40.40
+Nepal.PN4.Manang.Nar Phu RM,1.5.40.40
+Nepal.PN4.Manang.Nashong RM,1.5.40.40
+Nepal.PN4.Manang.Nesyang RM,1.5.40.40
+Nepal.PN4.Mustang,1.5.40
+Nepal.PN4.Mustang.Gharpajhong RM,1.5.41.41
+Nepal.PN4.Mustang.Thasang RM,1.5.41.41
+Nepal.PN4.Mustang.Dalome RM,1.5.41.41
+Nepal.PN4.Mustang.Lomanthang RM,1.5.41.41
+Nepal.PN4.Mustang.Barha Gaun Muktichhetra RM,1.5.41.41
+Nepal.PN4.Myagdi,1.5.41
+Nepal.PN4.Myagdi.Beni MCP,1.5.42.42
+Nepal.PN4.Myagdi.Annapurna RM,1.5.42.42
+Nepal.PN4.Myagdi.Dhawalagiri RM,1.5.42.42
+Nepal.PN4.Myagdi.Mangala RM,1.5.42.42
+Nepal.PN4.Myagdi.Malika RM,1.5.42.42
+Nepal.PN4.Myagdi.Raghu Ganga RM,1.5.42.42
+Nepal.PN4.Parbat,1.5.42
+Nepal.PN4.Parbat.Kushma MCP,1.5.43.43
+Nepal.PN4.Parbat.Phalebas MCP,1.5.43.43
+Nepal.PN4.Parbat.Jaljala RM,1.5.43.43
+Nepal.PN4.Parbat.Painyoo RM,1.5.43.43
+Nepal.PN4.Parbat.Maha Shila RM,1.5.43.43
+Nepal.PN4.Parbat.Modi RM,1.5.43.43
+Nepal.PN4.Parbat.Bihadi RM,1.5.43.43
+Nepal.PN4.Syangja,1.5.43
+Nepal.PN4.Syangja.Galyang MCP,1.5.44.44
+Nepal.PN4.Syangja.Chapakot MCP,1.5.44.44
+Nepal.PN4.Syangja.Putalibazar MCP,1.5.44.44
+Nepal.PN4.Syangja.Bhirkot MCP,1.5.44.44
+Nepal.PN4.Syangja.Waling MCP,1.5.44.44
+Nepal.PN4.Syangja.Arjun Chaupari RM,1.5.44.44
+Nepal.PN4.Syangja.Andhi Khola RM,1.5.44.44
+Nepal.PN4.Syangja.Kali Gandaki RM,1.5.44.44
+Nepal.PN4.Syangja.Phedi Khola RM,1.5.44.44
+Nepal.PN4.Syangja.Biruwa RM,1.5.44.44
+Nepal.PN4.Syangja.Harinas RM,1.5.44.44
+Nepal.PN4.Tanahun,1.5.44
+Nepal.PN4.Tanahun.Bhanu MCP,1.5.45.45
+Nepal.PN4.Tanahun.Bhimad MCP,1.5.45.45
+Nepal.PN4.Tanahun.Byas MCP,1.5.45.45
+Nepal.PN4.Tanahun.Sukla Gandaki MCP,1.5.45.45
+Nepal.PN4.Tanahun.Aanbu Khaireni RM,1.5.45.45
+Nepal.PN4.Tanahun.Rishing RM,1.5.45.45
+Nepal.PN4.Tanahun.Ghiring RM,1.5.45.45
+Nepal.PN4.Tanahun.Devghat RM,1.5.45.45
+Nepal.PN4.Tanahun.Myagde RM,1.5.45.45
+Nepal.PN4.Tanahun.Bandipur RM,1.5.45.45
+Nepal.PN5,1.5
+Nepal.PN5.Arghakhanchi,1.6.45
+Nepal.PN5.Arghakhanchi.Sandhikharka MCP,1.6.46.46
+Nepal.PN5.Arghakhanchi.Shit Ganga MCP,1.6.46.46
+Nepal.PN5.Arghakhanchi.Bhumikasthan MCP,1.6.46.46
+Nepal.PN5.Arghakhanchi.Chhatra Dev RM,1.6.46.46
+Nepal.PN5.Arghakhanchi.Panini RM,1.6.46.46
+Nepal.PN5.Arghakhanchi.Malarani RM,1.6.46.46
+Nepal.PN5.Banke,1.6.46
+Nepal.PN5.Banke.Nepalgunj S-MCP,1.6.47.47
+Nepal.PN5.Banke.Kohalpur MCP,1.6.47.47
+Nepal.PN5.Banke.Narainapur RM,1.6.47.47
+Nepal.PN5.Banke.Raptisonari RM,1.6.47.47
+Nepal.PN5.Banke.Baijanath RM,1.6.47.47
+Nepal.PN5.Banke.Khajura RM,1.6.47.47
+Nepal.PN5.Banke.Duduwa RM,1.6.47.47
+Nepal.PN5.Banke.Janaki RM,1.6.47.47
+Nepal.PN5.Bardiya,1.6.47
+Nepal.PN5.Bardiya.Gulariya MCP,1.6.48.48
+Nepal.PN5.Bardiya.Maduvan MCP,1.6.48.48
+Nepal.PN5.Bardiya.Rajapur Taratal MCP,1.6.48.48
+Nepal.PN5.Bardiya.Thakura Baba MCP,1.6.48.48
+Nepal.PN5.Bardiya.Bansgadhi MCP,1.6.48.48
+Nepal.PN5.Bardiya.Bar Bardiya MCP,1.6.48.48
+Nepal.PN5.Bardiya.Badhaiya Tal RM,1.6.48.48
+Nepal.PN5.Bardiya.Geruwa RM,1.6.48.48
+Nepal.PN5.Dang,1.6.48
+Nepal.PN5.Dang.Tulsipur S-MCP,1.6.49.49
+Nepal.PN5.Dang.Ghorahi S-MCP,1.6.49.49
+Nepal.PN5.Dang.Lamahi MCP,1.6.49.49
+Nepal.PN5.Dang.Banglachuli RM,1.6.49.49
+Nepal.PN5.Dang.Dangi Sharan RM,1.6.49.49
+Nepal.PN5.Dang.Gadhawa RM,1.6.49.49
+Nepal.PN5.Dang.Rajpur RM,1.6.49.49
+Nepal.PN5.Dang.Rapti RM,1.6.49.49
+Nepal.PN5.Dang.Shanti Nagar RM,1.6.49.49
+Nepal.PN5.Dang.Babai RM,1.6.49.49
+Nepal.PN5.Eastern_Rukum,1.6.49
+Nepal.PN5.Eastern_Rukum.Musikot MCP,1.6.50.50
+Nepal.PN5.Eastern_Rukum.Chaujahari MCP,1.6.50.50
+Nepal.PN5.Eastern_Rukum.Aathabiskot MCP,1.6.50.50
+Nepal.PN5.Eastern_Rukum.Putha Uttar Ganga RM,1.6.50.50
+Nepal.PN5.Eastern_Rukum.Bhume RM,1.6.50.50
+Nepal.PN5.Eastern_Rukum.Sisne RM,1.6.50.50
+Nepal.PN5.Eastern_Rukum.Barphikot RM,1.6.50.50
+Nepal.PN5.Eastern_Rukum.Triveni RM,1.6.50.50
+Nepal.PN5.Eastern_Rukum.Sani Bheri RM,1.6.50.50
+Nepal.PN5.Gulmi,1.6.50
+Nepal.PN5.Gulmi.Musikot MCP,1.6.51.51
+Nepal.PN5.Gulmi.Resunga MCP,1.6.51.51
+Nepal.PN5.Gulmi.Isma RM,1.6.51.51
+Nepal.PN5.Gulmi.Kali Gandaki RM,1.6.51.51
+Nepal.PN5.Gulmi.Gulmi Durbar RM,1.6.51.51
+Nepal.PN5.Gulmi.Satyawati RM,1.6.51.51
+Nepal.PN5.Gulmi.Chandrakot RM,1.6.51.51
+Nepal.PN5.Gulmi.Dhurkot RM,1.6.51.51
+Nepal.PN5.Gulmi.Madane RM,1.6.51.51
+Nepal.PN5.Gulmi.Malika RM,1.6.51.51
+Nepal.PN5.Kapilvastu,1.6.51
+Nepal.PN5.Kapilvastu.Kapilbastu MCP,1.6.52.52
+Nepal.PN5.Kapilvastu.Buddabhumi MCP,1.6.52.52
+Nepal.PN5.Kapilvastu.Shivaraj MCP,1.6.52.52
+Nepal.PN5.Kapilvastu.Maharajganj MCP,1.6.52.52
+Nepal.PN5.Kapilvastu.Krishna Nagar MCP,1.6.52.52
+Nepal.PN5.Kapilvastu.Banganga MCP,1.6.52.52
+Nepal.PN5.Kapilvastu.Mayadevi RM,1.6.52.52
+Nepal.PN5.Kapilvastu.Yashodhara RM,1.6.52.52
+Nepal.PN5.Kapilvastu.Suddodhana RM,1.6.52.52
+Nepal.PN5.Kapilvastu.Bijay Nagar RM,1.6.52.52
+Nepal.PN5.Palpa,1.6.52
+Nepal.PN5.Palpa.Rampur MCP,1.6.53.53
+Nepal.PN5.Palpa.Tansen MCP,1.6.53.53
+Nepal.PN5.Palpa.Nisdi RM,1.6.53.53
+Nepal.PN5.Palpa.Purba Khola RM,1.6.53.53
+Nepal.PN5.Palpa.Rambha RM,1.6.53.53
+Nepal.PN5.Palpa.Matha Gadhi RM,1.6.53.53
+Nepal.PN5.Palpa.Tinau RM,1.6.53.53
+Nepal.PN5.Palpa.Bagnaskali RM,1.6.53.53
+Nepal.PN5.Palpa.Ribdikot RM,1.6.53.53
+Nepal.PN5.Palpa.Raina Devi Chhahara RM,1.6.53.53
+Nepal.PN5.Pyuthan,1.6.53
+Nepal.PN5.Pyuthan.Pyuthan MCP,1.6.54.54
+Nepal.PN5.Pyuthan.Swargadeari MCP,1.6.54.54
+Nepal.PN5.Pyuthan.Gaumukhi RM,1.6.54.54
+Nepal.PN5.Pyuthan.Mandavi RM,1.6.54.54
+Nepal.PN5.Pyuthan.Sarumarani RM,1.6.54.54
+Nepal.PN5.Pyuthan.Mallarani RM,1.6.54.54
+Nepal.PN5.Pyuthan.Nau Bahini RM,1.6.54.54
+Nepal.PN5.Pyuthan.Jhimmaruk RM,1.6.54.54
+Nepal.PN5.Pyuthan.Eairabati RM,1.6.54.54
+Nepal.PN5.Rolpa,1.6.54
+Nepal.PN5.Rolpa.Rolpa MCP,1.6.55.55
+Nepal.PN5.Rolpa.Triveni RM,1.6.55.55
+Nepal.PN5.Rolpa.Dui Kholi RM,1.6.55.55
+Nepal.PN5.Rolpa.Madi RM,1.6.55.55
+Nepal.PN5.Rolpa.Runti Gadhi RM,1.6.55.55
+Nepal.PN5.Rolpa.Lungri RM,1.6.55.55
+Nepal.PN5.Rolpa.Sukidaha RM,1.6.55.55
+Nepal.PN5.Rolpa.Sunchhahari RM,1.6.55.55
+Nepal.PN5.Rolpa.Subarnawati RM,1.6.55.55
+Nepal.PN5.Rolpa.Thawang RM,1.6.55.55
+Nepal.PN5.Rupandehi,1.6.55
+Nepal.PN5.Rupandehi.Butwal S-MCP,1.6.56.56
+Nepal.PN5.Rupandehi.Devdaha MCP,1.6.56.56
+Nepal.PN5.Rupandehi.Lumbini Sanskritik MCP,1.6.56.56
+Nepal.PN5.Rupandehi.Siddharthanagar MCP,1.6.56.56
+Nepal.PN5.Rupandehi.Saina Maina MCP,1.6.56.56
+Nepal.PN5.Rupandehi.Tilottama MCP,1.6.56.56
+Nepal.PN5.Rupandehi.Gaidahawa RM,1.6.56.56
+Nepal.PN5.Rupandehi.Kanchan RM,1.6.56.56
+Nepal.PN5.Rupandehi.Kotahi Mai RM,1.6.56.56
+Nepal.PN5.Rupandehi.Marchawari RM,1.6.56.56
+Nepal.PN5.Rupandehi.Mayadevi RM,1.6.56.56
+Nepal.PN5.Rupandehi.Om Satiya RM,1.6.56.56
+Nepal.PN5.Rupandehi.Rohini RM,1.6.56.56
+Nepal.PN5.Rupandehi.Sammarai Mai RM,1.6.56.56
+Nepal.PN5.Rupandehi.Siyari RM,1.6.56.56
+Nepal.PN5.Rupandehi.Suddodhana RM,1.6.56.56
+Nepal.PN6,1.6
+Nepal.PN6.Dailekh,1.7.56
+Nepal.PN6.Dailekh.Narayan MCP,1.7.57.57
+Nepal.PN6.Dailekh.Dullu MCP,1.7.57.57
+Nepal.PN6.Dailekh.Chamunda Bindrasaini RM,1.7.57.57
+Nepal.PN6.Dailekh.Aathabis MCP,1.7.57.57
+Nepal.PN6.Dailekh.Bhagawati Mai RM,1.7.57.57
+Nepal.PN6.Dailekh.Gurans RM,1.7.57.57
+Nepal.PN6.Dailekh.Dungeshwor RM,1.7.57.57
+Nepal.PN6.Dailekh.Naumule RM,1.7.57.57
+Nepal.PN6.Dailekh.Mahabu RM,1.7.57.57
+Nepal.PN6.Dailekh.Bairavi RM,1.7.57.57
+Nepal.PN6.Dailekh.Thantikandh RM,1.7.57.57
+Nepal.PN6.Dolpa,1.7.57
+Nepal.PN6.Dolpa.Thuli Bheri MCP,1.7.58.58
+Nepal.PN6.Dolpa.Tripur Sundari MCP,1.7.58.58
+Nepal.PN6.Dolpa.Dolpo Buddha RM,1.7.58.58
+Nepal.PN6.Dolpa.She-Phoksundo RM,1.7.58.58
+Nepal.PN6.Dolpa.Jagadulla RM,1.7.58.58
+Nepal.PN6.Dolpa.Mudke CHula Gaun RM,1.7.58.58
+Nepal.PN6.Dolpa.Kaieke RM,1.7.58.58
+Nepal.PN6.Dolpa.Chharka Tongsong RM,1.7.58.58
+Nepal.PN6.Humla,1.7.58
+Nepal.PN6.Humla.Simkot RM,1.7.59.59
+Nepal.PN6.Humla.Namkha RM,1.7.59.59
+Nepal.PN6.Humla.Kharpu Nath,1.7.59.59
+Nepal.PN6.Humla.Sarkegad RM,1.7.59.59
+Nepal.PN6.Humla.Chankheli RM,1.7.59.59
+Nepal.PN6.Humla.Adanchuli RM,1.7.59.59
+Nepal.PN6.Humla.Tanjakot RM,1.7.59.59
+Nepal.PN6.Jajarkot,1.7.59
+Nepal.PN6.Jajarkot.Bheri MCP,1.7.60.60
+Nepal.PN6.Jajarkot.Chhedagad MCP,1.7.60.60
+Nepal.PN6.Jajarkot.Triveni Nalgad MCP,1.7.60.60
+Nepal.PN6.Jajarkot.Kuse RM,1.7.60.60
+Nepal.PN6.Jajarkot.Junichande RM,1.7.60.60
+Nepal.PN6.Jajarkot.Barekot RM,1.7.60.60
+Nepal.PN6.Jajarkot.Shivalaya RM,1.7.60.60
+Nepal.PN6.Jumla,1.7.60
+Nepal.PN6.Jumla.Chandannath MCP,1.7.61.61
+Nepal.PN6.Jumla.Kanaka Sundari RM,1.7.61.61
+Nepal.PN6.Jumla.Sinja RM,1.7.61.61
+Nepal.PN6.Jumla.Hima RM,1.7.61.61
+Nepal.PN6.Jumla.Tila RM,1.7.61.61
+Nepal.PN6.Jumla.Guthichaur RM,1.7.61.61
+Nepal.PN6.Jumla.Tatopani RM,1.7.61.61
+Nepal.PN6.Jumla.Patarasi RM,1.7.61.61
+Nepal.PN6.Kalikot,1.7.61
+Nepal.PN6.Kalikot.Khandachakra MCP,1.7.62.62
+Nepal.PN6.Kalikot.Raskot MCP,1.7.62.62
+Nepal.PN6.Kalikot.Tila Gupha MCP,1.7.62.62
+Nepal.PN6.Kalikot.Pachal Jharana RM,1.7.62.62
+Nepal.PN6.Kalikot.Sanni Triveni RM,1.7.62.62
+Nepal.PN6.Kalikot.Narhari Nath RM,1.7.62.62
+Nepal.PN6.Kalikot.Kalika RM,1.7.62.62
+Nepal.PN6.Kalikot.Mahawai RM,1.7.62.62
+Nepal.PN6.Kalikot.Palata RM,1.7.62.62
+Nepal.PN6.Mugu,1.7.62
+Nepal.PN6.Mugu.Chhaya Nath Rara MCP,1.7.63.63
+Nepal.PN6.Mugu.Mugumakarmarong RM,1.7.63.63
+Nepal.PN6.Mugu.Soru RM,1.7.63.63
+Nepal.PN6.Mugu.Khatyad RM,1.7.63.63
+Nepal.PN6.Salyan,1.7.63
+Nepal.PN6.Salyan.Sharada MCP,1.7.64.64
+Nepal.PN6.Salyan.Bagchaur MCP,1.7.64.64
+Nepal.PN6.Salyan.Bangad Kupinde MCP,1.7.64.64
+Nepal.PN6.Salyan.Kalimati RM,1.7.64.64
+Nepal.PN6.Salyan.Triveni RM,1.7.64.64
+Nepal.PN6.Salyan.Kapurkot RM,1.7.64.64
+Nepal.PN6.Salyan.Chhareshwori RM,1.7.64.64
+Nepal.PN6.Salyan.Dhorchaur RM,1.7.64.64
+Nepal.PN6.Salyan.Kumakha Malika RM,1.7.64.64
+Nepal.PN6.Salyan.Darma RM,1.7.64.64
+Nepal.PN6.Surkhet,1.7.64
+Nepal.PN6.Surkhet.BirendraNagar MCP,1.7.65.65
+Nepal.PN6.Surkhet.Bheri ganga MCP,1.7.65.65
+Nepal.PN6.Surkhet.Gurbhakot MCP,1.7.65.65
+Nepal.PN6.Surkhet.Panchapuri MCP,1.7.65.65
+Nepal.PN6.Surkhet.Lek Besi MCP,1.7.65.65
+Nepal.PN6.Surkhet.Chaukune RM,1.7.65.65
+Nepal.PN6.Surkhet.Barahatal RM,1.7.65.65
+Nepal.PN6.Surkhet.Chingad RM,1.7.65.65
+Nepal.PN6.Surkhet.Simta RM,1.7.65.65
+Nepal.PN7,1.7
+Nepal.PN7.Achham,1.8.65
+Nepal.PN7.Achham.Mangalsen MCP,1.8.66.66
+Nepal.PN7.Achham.Sanfebagar MCP,1.8.66.66
+Nepal.PN7.Achham.Kamalbazar MCP,1.8.66.66
+Nepal.PN7.Achham.Panchdeval Binayak MCP,1.8.66.66
+Nepal.PN7.Achham.Chourpati RM,1.8.66.66
+Nepal.PN7.Achham.Mellekh RM,1.8.66.66
+Nepal.PN7.Achham.Bannigadhi Jayagadh RM,1.8.66.66
+Nepal.PN7.Achham.RamRoshan RM,1.8.66.66
+Nepal.PN7.Achham.Dhakari RM,1.8.66.66
+Nepal.PN7.Achham.Turmakhand RM,1.8.66.66
+Nepal.PN7.Baitadi,1.8.66
+Nepal.PN7.Baitadi.Dasharath CHanda MCP,1.8.67.67
+Nepal.PN7.Baitadi.Patan MCP,1.8.67.67
+Nepal.PN7.Baitadi.Melauli MCP,1.8.67.67
+Nepal.PN7.Baitadi.Purchaudi MCP,1.8.67.67
+Nepal.PN7.Baitadi.Surnaiya RM,1.8.67.67
+Nepal.PN7.Baitadi.Sigas RM,1.8.67.67
+Nepal.PN7.Baitadi.Shivanath RM,1.8.67.67
+Nepal.PN7.Baitadi.Pancheshwor RM,1.8.67.67
+Nepal.PN7.Baitadi.Dogada Kedar RM,1.8.67.67
+Nepal.PN7.Baitadi.Dilasaini RM,1.8.67.67
+Nepal.PN7.Bajhang,1.8.67
+Nepal.PN7.Bajhang.Jaya Prithivi MCP,1.8.68.68
+Nepal.PN7.Bajhang.Bungal MCP,1.8.68.68
+Nepal.PN7.Bajhang.Talkot RM,1.8.68.68
+Nepal.PN7.Bajhang.Masta RM,1.8.68.68
+Nepal.PN7.Bajhang.Khaptadchhanna RM,1.8.68.68
+Nepal.PN7.Bajhang.Thalara RM,1.8.68.68
+Nepal.PN7.Bajhang.Bithadchir RM,1.8.68.68
+Nepal.PN7.Bajhang.Surma RM,1.8.68.68
+Nepal.PN7.Bajhang.Chhabis Pathibhera RM,1.8.68.68
+Nepal.PN7.Bajhang.Durgathali RM,1.8.68.68
+Nepal.PN7.Bajhang.Kedarsyun RM,1.8.68.68
+Nepal.PN7.Bajhang.Kanda RM,1.8.68.68
+Nepal.PN7.Bajura,1.8.68
+Nepal.PN7.Bajura.Badi Malika MCP,1.8.69.69
+Nepal.PN7.Bajura.Triveni MCP,1.8.69.69
+Nepal.PN7.Bajura.Budhi Ganga MCP,1.8.69.69
+Nepal.PN7.Bajura.Budhi Nanda MCP,1.8.69.69
+Nepal.PN7.Bajura.Gaumul RM,1.8.69.69
+Nepal.PN7.Bajura.Pandav Gupha RM,1.8.69.69
+Nepal.PN7.Bajura.SwamiKartik RM,1.8.69.69
+Nepal.PN7.Bajura.Chhededaha RM,1.8.69.69
+Nepal.PN7.Bajura.Himali RM,1.8.69.69
+Nepal.PN7.Dadeldhura,1.8.69
+Nepal.PN7.Dadeldhura.Amargadhi MCP,1.8.70.70
+Nepal.PN7.Dadeldhura.Parashuram MCP,1.8.70.70
+Nepal.PN7.Dadeldhura.Aalitaal RM,1.8.70.70
+Nepal.PN7.Dadeldhura.Bhageshwor RM,1.8.70.70
+Nepal.PN7.Dadeldhura.Nabadurga RM,1.8.70.70
+Nepal.PN7.Dadeldhura.Ajaymeru RM,1.8.70.70
+Nepal.PN7.Dadeldhura.Ganyapdhura RM,1.8.70.70
+Nepal.PN7.Darchula,1.8.70
+Nepal.PN7.Darchula.Mahakali MCP,1.8.71.71
+Nepal.PN7.Darchula.Silya Shikhar MCP,1.8.71.71
+Nepal.PN7.Darchula.Malikarjun RM,1.8.71.71
+Nepal.PN7.Darchula.Api Himal RM,1.8.71.71
+Nepal.PN7.Darchula.Duhun RM,1.8.71.71
+Nepal.PN7.Darchula.Naugad RM,1.8.71.71
+Nepal.PN7.Darchula.Marma RM,1.8.71.71
+Nepal.PN7.Darchula.Lekam RM,1.8.71.71
+Nepal.PN7.Darchula.Byans RM,1.8.71.71
+Nepal.PN7.Doti,1.8.71
+Nepal.PN7.Doti.Dipayal-Silgadi MCP,1.8.72.72
+Nepal.PN7.Doti.Shikhar MCP,1.8.72.72
+Nepal.PN7.Doti.Purbi Chouki RM,1.8.72.72
+Nepal.PN7.Doti.Badikedar RM,1.8.72.72
+Nepal.PN7.Doti.Jorayal RM,1.8.72.72
+Nepal.PN7.Doti.Sayal RM,1.8.72.72
+Nepal.PN7.Doti.Aadarsha RM,1.8.72.72
+Nepal.PN7.Doti.KI Singh RM,1.8.72.72
+Nepal.PN7.Doti.Bogtan RM,1.8.72.72
+Nepal.PN7.Kailali,1.8.72
+Nepal.PN7.Kailali.Dhangadhi S-MCP,1.8.73.73
+Nepal.PN7.Kailali.Tikapur MCP,1.8.73.73
+Nepal.PN7.Kailali.Ghodaghodi MCP,1.8.73.73
+Nepal.PN7.Kailali.Lamki-Chuha MCP,1.8.73.73
+Nepal.PN7.Kailali.Bhajani MCP,1.8.73.73
+Nepal.PN7.Kailali.Godavari MCP,1.8.73.73
+Nepal.PN7.Kailali.Gauri Ganga MCP,1.8.73.73
+Nepal.PN7.Kailali.Janaki RM,1.8.73.73
+Nepal.PN7.Kailali.Bardogoriya RM,1.8.73.73
+Nepal.PN7.Kailali.Mohanyal RM,1.8.73.73
+Nepal.PN7.Kailali.Kailari RM,1.8.73.73
+Nepal.PN7.Kailali.Joshipur RM,1.8.73.73
+Nepal.PN7.Kailali.Chure RM,1.8.73.73
+Nepal.PN7.Kanchanpur,1.8.73
+Nepal.PN7.Kanchanpur.Bhimdatta MCP,1.8.74.74
+Nepal.PN7.Kanchanpur.Punarbas MCP,1.8.74.74
+Nepal.PN7.Kanchanpur.Bedkot MCP,1.8.74.74
+Nepal.PN7.Kanchanpur.Mahakali MCP,1.8.74.74
+Nepal.PN7.Kanchanpur.Shuklaphanta MCP,1.8.74.74
+Nepal.PN7.Kanchanpur.Belauri MCP,1.8.74.74
+Nepal.PN7.Kanchanpur.Krishnapur MCP,1.8.74.74
+Nepal.PN7.Kanchanpur.Beldandi RM,1.8.74.74
+Nepal.PN7.Kanchanpur.Laljhadi RM,1.8.74.74
